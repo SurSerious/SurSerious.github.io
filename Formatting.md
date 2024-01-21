@@ -1,5 +1,8 @@
 ---
 layout: default
+---
+
+---
 title: "Formatting.md"
 permalink: /formatting/
 ---
