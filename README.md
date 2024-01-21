@@ -1,11 +1,10 @@
-
 ---
 layout: default
 ---
 
 ---
 title: "README.md"
-permalink: /
+permalink:
 ---
 
 # surserious.github.io
