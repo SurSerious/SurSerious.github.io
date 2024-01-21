@@ -4,6 +4,10 @@ title: "Formatting.md"
 permalink: /formatting/
 ---
 
+[Home](/)
+
+---
+
 # Mark Down Formatting guide
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -11,8 +15,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to YouTube](https://m.youtube.com/).
 
 There should be whitespace between paragraphs.
-
----
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
