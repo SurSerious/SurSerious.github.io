@@ -4,10 +4,6 @@ title: "Formatting.md"
 permalink: /formatting/
 ---
 
-[Home](/)
-
----
-
 # Mark Down Formatting guide
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -125,3 +121,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[Home](/)
