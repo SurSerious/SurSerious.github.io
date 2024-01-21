@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Arial', sans-serif; /* Choose a suitable font */
+  margin: 0;
+  overflow: hidden; /* Prevent scrollbar from appearing */
+}
+
+iframe {
+  width: 100vw;
+  height: 100vh;
+  border: none;
+}
