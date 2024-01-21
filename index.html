@@ -3,19 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Black Background Page</title>
+  <title>Markdown Webpage</title>
   <style>
     body {
       background-color: black;
-      color: white; /* Text color set to white for better visibility on a black background */
+      color: white;
+      font-family: 'Arial', sans-serif; /* Choose a suitable font */
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    a {
+      color: #3498db; /* Set link color, adjust as needed */
     }
   </style>
+  <script src="path/to/marked.min.js"></script>
 </head>
 <body>
 
-<!-- Your content goes here -->
-<h1>Hello, World!</h1>
-<p>This is some visible text on a black background.</p>
+<div id="markdown-content"></div>
+
+<script>
+  window.onload = function () {
+    // Replace 'your-markdown-file.md' with the path to your Markdown file
+    fetch('README.md')
+      .then(response => response.text())
+      .then(text => {
+        // Use marked.js to convert Markdown to HTML
+        document.getElementById('markdown-content').innerHTML = marked(text);
+      });
+  };
+</script>
 
 </body>
 </html>
