@@ -6,4 +6,5 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 
 #### Links
 [Formatting demo](/formatting/)
+
 [Diet and Exercise](/dietandexercise/)
