@@ -6,6 +6,10 @@ layout: default
 
 ---
 
+[Formatting demo](https://m.youtube.com/)
+
+---
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to YouTube](https://m.youtube.com/).
