@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-[Formatting demo](https://surserious.github.io/formatting/)
+[Formatting demo](/formatting/)
 
 ---
 
