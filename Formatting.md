@@ -1,6 +1,6 @@
 layout: page
 title: "Formatting.md"
-permalink: /formatting/
+permalink: https://surserious.github.io/formatting/
 
 # H1 header demo test
 
