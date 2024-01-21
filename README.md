@@ -2,12 +2,6 @@
 layout: default
 ---
 
----
-layout: page
-title: "README.md"
-permalink: /
----
-
 # surserious.github.io
 
 [Formatting demo](/formatting/)
