@@ -1,10 +1,10 @@
+---
+layout: page
+title: "README.md"
+permalink: /
+---
+
 # surserious.github.io
-
----
-
-layout: default
-
----
 
 [Formatting demo](/formatting/)
 
