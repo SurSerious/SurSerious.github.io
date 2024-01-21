@@ -6,8 +6,6 @@ layout: default
 layout: page
 title: "README.md"
 permalink: /
-------
-layout: default
 ---
 
 # surserious.github.io
