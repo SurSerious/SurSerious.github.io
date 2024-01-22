@@ -12,7 +12,7 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 **Quotes**
 
 	-- *You’re braver than you believe, and stronger than you seem, and smarter than you think.* ~ A.A. Mine
-	- *Happiness is an attitude. We either make ourselves miserable, or happy and strong. The amount of work is the same.* ~ Francesca Reigler
+-- *Happiness is an attitude. We either make ourselves miserable, or happy and strong. The amount of work is the same.* ~ Francesca Reigler
 	- *The struggle you’re in today is developing the strength you need tomorrow.* ~ Robert Tew
 
 *what Jazzy Quotes!* 🪴🦞🎷
