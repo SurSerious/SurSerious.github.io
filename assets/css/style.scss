@@ -35,6 +35,13 @@ body {
 }
 
 ul {
-  list-style-type: circle; /* Change to the desired symbol: disc, circle, square, etc. */
-  color: #E5E8E8; /* Change to the desired color */
+  list-style: none; /* Remove default list styles */
+}
+
+ul::before {
+  content: '\2022'; /* Unicode character for a bullet point */
+  color: #ff0000; /* Change to the desired color */
+  display: inline-block;
+  width: 1em; /* Adjust as needed for spacing */
+  margin-right: 0.5em; /* Adjust as needed for spacing */
 }
