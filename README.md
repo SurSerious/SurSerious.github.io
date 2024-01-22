@@ -8,25 +8,6 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 
 ---
 
-# Clock
-
-<script>
-  function updateClock() {
-    var now = new Date();
-    var hours = now.getHours();
-    var minutes = now.getMinutes();
-    var seconds = now.getSeconds();
-
-    document.getElementById('clock').innerHTML = `${hours}:${minutes}:${seconds}`;
-  }
-
-  setInterval(updateClock, 1000); // Update every second
-</script>
-
-<div id="clock"></div>
-
----
-
 <h3 style="text-align: center;">Quotes of The Week</h3>
 
 - *You’re braver than you believe, and stronger than you seem, and smarter than you think.* ~ A.A. Mine
@@ -34,7 +15,6 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 - *The struggle you’re in today is developing the strength you need tomorrow.* ~ Robert Tew
 
 <p style="text-align: center; font-style: italic;">What Jazzy Quotes! 🪴🦞🎷</p>
-
 
 ---
 ## Links
