@@ -22,5 +22,7 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 
 [Diet and Exercise](/dietandexercise/)
 
+[Motivation](/motivation/)
+
 <a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
 
