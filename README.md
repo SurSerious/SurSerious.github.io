@@ -14,7 +14,7 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 - *Happiness is an attitude. We either make ourselves miserable, or happy and strong. The amount of work is the same.* ~ Francesca Reigler
 - *The struggle you’re in today is developing the strength you need tomorrow.* ~ Robert Tew
 
-<p style="text-align: center; font-style: italic;">what Jazzy Quotes! 🪴🦞🎷</p>
+<p style="text-align: center; font-style: italic;">What Jazzy Quotes! 🪴🦞🎷</p>
 
 
 ---
