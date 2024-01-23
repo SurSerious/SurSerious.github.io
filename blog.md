@@ -4,7 +4,7 @@ title: "blog.md"
 permalink: /blog/
 ---
 
-## <p style="center">This is a blog</p>
+## <p style="text-align: center;">Blog</p>
 
 - ***Tuesday, January 23, 2024 6:35 AM***
 
