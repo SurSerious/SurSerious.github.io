@@ -26,30 +26,7 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 
 [Blog](/blog/)
 
-</html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hidden Text</title>
-    <style>
-        #hiddenText {
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <p id="showText">Click or hover here to reveal hidden text.</p>
-    <p id="hiddenText">This text was hidden.</p>
-
-    <script>
-        document.getElementById("showText").addEventListener("click", function() {
-            document.getElementById("hiddenText").style.display = "block";
-        });
-        // If you prefer hover instead of click, you can use "mouseover" instead of "click".
-    </script>
-</body>
-</html>
-
+[Popcorn](/popcorn/)
 
 <a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
 
