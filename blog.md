@@ -9,3 +9,4 @@ permalink: /blog/
 
 I would like to sleep, however I'm not tired. The end.
 
+[Home](/)
