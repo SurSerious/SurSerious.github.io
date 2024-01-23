@@ -4,5 +4,5 @@ title: "popcorn.md"
 permalink: /popcorn/
 ---
 
-<iframe width="100%" height="100%" src="https://www.eporner.com/embed/NbC1KnM6cyO/" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.eporner.com/embed/NbC1KnM6cyO/" frameborder="0" allowfullscreen></iframe>
 
