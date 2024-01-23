@@ -10,6 +10,3 @@ permalink: /motivation/
 
 ---
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/pVHh70o5KO0" title="Donald Trump Never Quit!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-let go of the past... Changing means completely letting go
