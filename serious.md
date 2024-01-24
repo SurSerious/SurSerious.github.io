@@ -11,7 +11,7 @@ permalink: /serious/
 
 - Be brutally honest with yourself and others
 
-- **say what you seriously mean**, dont be afraid to be vulnerable.
+- **Say what you seriously mean**, dont be afraid to be vulnerable.
 	- Explain what you are saying slowly and clearly. Just because you understand something doesn't mean the other person does
 	- if it's on your mind, then say so clearly
 
