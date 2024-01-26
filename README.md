@@ -1,6 +1,22 @@
 # Introduction
 
-Hello, this is text which I have added to make it seem less empty. thank you very much for reading and have a wonderful day! 😊 ❤️
+Welcome to my Website.
+
+---
+
+## Site Directory
+[Formatting demo](/formatting/)
+
+[Diet and Exercise](/dietandexercise/)
+
+[Motivation](/motivation/)
+
+[Blog](/blog/)
+
+[Act Seriously](/serious/)
+
+<a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
+
 
 ---
 
@@ -17,16 +33,7 @@ Hello, this is text which I have added to make it seem less empty. thank you ver
 <p style="text-align: center; font-style: italic;">What Jazzy Quotes! 🪴🦞🎷</p>
 
 ---
-## Links
-[Formatting demo](/formatting/)
 
-[Diet and Exercise](/dietandexercise/)
+Thank you very much for visiting and have a wonderful day! 😊 ❤️
 
-[Motivation](/motivation/)
-
-[Blog](/blog/)
-
-[Act Seriously](/serious/)
-
-<a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
 
