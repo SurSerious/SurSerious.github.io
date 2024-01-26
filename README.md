@@ -17,11 +17,6 @@ Welcome to my Website.
 
 <a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
 
-
----
-
-<img src="https://i.gifer.com/origin/b3/b365dd14fa568d67c2f105c705d221cf_w200.gif" width="80" height="80" /><img src="https://i.pinimg.com/originals/8e/a6/3f/8ea63f6cbe94a78536a20c201c69a9f5.gif" width="80" height="80" />
-
 ---
 
 <h3 style="text-align: center;">Quotes of The Week</h3>
@@ -31,6 +26,12 @@ Welcome to my Website.
 - *The struggle you’re in today is developing the strength you need tomorrow.* ~ Robert Tew
 
 <p style="text-align: center; font-style: italic;">What Jazzy Quotes! 🪴🦞🎷</p>
+
+---
+
+<p style= font-style: italic;">*Image demonstrates*</p>
+
+<img src="https://i.gifer.com/origin/b3/b365dd14fa568d67c2f105c705d221cf_w200.gif" width="80" height="80" /><img src="https://i.pinimg.com/originals/8e/a6/3f/8ea63f6cbe94a78536a20c201c69a9f5.gif" width="80" height="80" />
 
 ---
 
