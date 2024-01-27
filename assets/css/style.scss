@@ -45,3 +45,8 @@ header {
   margin: 0 0 40px 0;
 }
 
+hr {
+  border: none; // Remove the default border style
+  border-top: 1px dashed #ff0000; // Replace with your preferred color code
+  margin: 20px 0; // Adjust margin as needed
+}
