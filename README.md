@@ -1,6 +1,6 @@
-# Introduction
+<h2 style="text-align: center;">Introduction</h2>
 
-Welcome to my Website.
+<center>Welcome!</center>
 
 ## Site Directory
 [Formatting demo](/formatting/)
