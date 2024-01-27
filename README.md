@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello 👋, welcome to my webpage. I am SurSerious and this is an introduction paragraph.
+Hello 👋, welcome to my webpage. I am SurSerious and this is an introduction paragraph. The font is different on mobile and desktop, I'm not sure why that is...
 
 ## Site Directory
 [Formatting demo](/formatting/)
