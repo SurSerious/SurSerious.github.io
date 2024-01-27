@@ -1,6 +1,6 @@
-<h2 style="text-align: center;">Introduction</h2>
+## Introduction
 
-<center>Welcome!</center>
+Hello 👋, welcome to my webpage. I am SurSerious and this is an introduction paragraph.
 
 ## Site Directory
 [Formatting demo](/formatting/)
