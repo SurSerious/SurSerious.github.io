@@ -23,12 +23,13 @@ Welcome to my Website.
 
 <p style="text-align: center; font-style: italic;">What Jazzy Quotes! 🪴🦞🎷</p>
 
----
 
 <p style="font-style: italic; color: darkred;">Image demonstrates</p>
 
 <img src="https://i.gifer.com/origin/b3/b365dd14fa568d67c2f105c705d221cf_w200.gif" width="80" height="80" /><img src="https://i.pinimg.com/originals/8e/a6/3f/8ea63f6cbe94a78536a20c201c69a9f5.gif" width="80" height="80" />
 
 Thank you very much for visiting and have a wonderful day! 😊 ❤️
+
+---
 
 
