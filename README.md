@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello 👋, welcome to my webpage. I am SurSerious and this is an introduction paragraph.
+Hello 👋, welcome to my webpage. I am SurSerious and this is an introductory paragraph.
 
 ## Site Directory
 [Formatting demo](/formatting/)
