@@ -28,7 +28,7 @@ permalink: /serious/
 -  Face facts
 	- By acting serious we must confront and face up to the truth and uncomfortable situations. Such as 
 		1. Be willing to push aside the ego and admit when something was our fault
-		2. Face the truth and be honest especially when it's [[face scary thoughts | scary or uncomfortable]] to do so
-		3. If something is on your mind say it straight away (this also mitigates [[Stress and worry|stress]])
+		2. Face the truth and be honest especially when it's scary or uncomfortable to do so
+		3. If something is on your mind say it straight away (this also mitigates stress
 - Actively listen 
 	- interpret information by default as serious, don't ever think someone is joking unless they say they are
