@@ -14,4 +14,8 @@ I would like to sleep, however I'm not tired. The end.
 
 The font is different on mobile and desktop, I'm not sure why that is... yet now, (the next day) it's the same. I changed the font in the scss file yet I can't find the section where I did so... I SUPPOSE I MUST BE INSANE AND IMAGINING THINGS THEN! 🤨
 
+- ***20:09 09/09/24***
+
+It's been a while since I've been to my web site, what a year it has been so far...
+
 [Home](/)
