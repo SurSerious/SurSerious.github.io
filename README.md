@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello 👋, welcome to my webpage. I am SurSerious and this is an introductory paragraph.
+Hello 👋, and welcome to my webpage! I’m Charlie Ledger—a passionate enthusiast of chess, music, and, above all, the journey of self-improvement. Here, you’ll find a glimpse into my interests and the ideas that inspire me daily.
 
 ## Site Directory
 [Formatting demo](/formatting/)
