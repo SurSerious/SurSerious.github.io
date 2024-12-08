@@ -2,14 +2,6 @@
 
 Hello 👋, and welcome to my webpage! I’m Charlie Ledger—a passionate enthusiast of chess, music, and, above all, the journey of self-improvement. Here, you’ll find a glimpse into my interests and the ideas that inspire me daily.
 
-> [!arm]- Proactive advice for disturbing thoughts
-> **Solutions**
-> - **Ask yourself why this occured?**
-> - **Stop going down a life path you don't like.**
-> 	- *Out of sight, out of mind.*
-> - **Be more consistent with your rational self**.
-> 	- Analyse what lead to future sexually disturbing thoughts
-
 ## Site Directory
 [Formatting demo](/formatting/)
 
