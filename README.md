@@ -13,6 +13,8 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Act Seriously](/serious/)
 
+[social-emotional resilience](/social-emotionalresilience/)
+
 <a href="https://github.com/SurSerious/SurSerious.github.io" target="_blank">Link to GitHub Page</a>
 
 <h3 style="text-align: center;">Quotes of The Week</h3>
