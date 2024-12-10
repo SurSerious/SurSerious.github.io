@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "social-emotional resilience.md"
+permalink: /social-emotionalresilience/
+---
 
 
 Strong social-emotional resilience, being better than low-value behaviors.
