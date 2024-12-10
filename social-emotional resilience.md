@@ -5,7 +5,7 @@ permalink: /social-emotionalresilience/
 ---
 
 
-Strong social-emotional resilience, being better than low-value behaviors.
+***Strong social-emotional resilience, being better than low-value behaviors.***
 
 ### **TL;DR Advice for Building Social-Emotional Resilience**  
 
