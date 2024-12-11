@@ -13,7 +13,7 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Act Seriously](/serious/)
 
-[social-emotional resilience](/social-emotionalresilience/)
+[Social-Emotional Resilience](/social-emotionalresilience/)
 
 <h3 style="text-align: center;">Quotes of The Week</h3>
 
