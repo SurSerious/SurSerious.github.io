@@ -72,7 +72,7 @@ Limit your engagement with net negative activities, especially when feeling over
 
 Explore replacement activities by drawing inspiration from role models, expanding on your current hobbies, or conducting research.
  
-#### Still bored?
+### Still bored?
 Boredom is a good thing. 
 - Simply take 5, rest, and clear your mind. 
 - Try new things that propel you in the right direction. 
