@@ -9,7 +9,7 @@ permalink: /rest/
 > Quotes 
 > - You will never regret focused resting / destimulation 
 > - *The more you allow yourself to slow down and rest, the easier it is to actualise self-improvement*
-> - *[[The Importance of Rest]]*
+> - *As important as it is to have a plan for doing work, it is perhaps more important to have a plan for rest, relaxation, self-care, and sleep*
 
 Rest is as crucial as work and play. When resting, make sure you're not thinking about goals, worries, and so on because *you're not resting if your mind is racing!*
 
