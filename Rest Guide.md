@@ -68,9 +68,9 @@ Intelligent, notable, and emotionally whole men often engage in activities for a
 By choosing activities that align with their values, moral standards, interests, and well-being, these men prioritize their mental, emotional, and physical health during periods of active rest. 
 
 ### Shift away from net negative activities
-With net negative activities, limit the usage, especially when hyper-stimulated or if it's draining.
+Limit your engagement with net negative activities, especially when feeling overstimulated or drained.
 
-Find replacement activities from role models, branching off of current hobbies, or through researching.
+Explore replacement activities by drawing inspiration from role models, expanding on your current hobbies, or conducting research.
  
 #### Still bored?
 Boredom is a good thing. 
