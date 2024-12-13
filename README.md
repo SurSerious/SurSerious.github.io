@@ -15,6 +15,8 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Social-Emotional Resilience](/social-emotionalresilience/)
 
+[Rest Guide](/rest/)
+
 <h3 style="text-align: center;">Quotes of The Week</h3>
 
 - *You’re braver than you believe, and stronger than you seem, and smarter than you think.* ~ A.A. Mine
