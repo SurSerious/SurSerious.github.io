@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rest Guide.md"
+permalink: /rest/
+---
+
 ***"Rest is a skill you must work at like any other"***
 
 > Quotes 
