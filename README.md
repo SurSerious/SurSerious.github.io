@@ -27,6 +27,7 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 
 <p style="font-style: italic; color: darkred;">Image demonstrations</p>
+
 ## Image demonstrations
 
 <img src="https://i.gifer.com/origin/b3/b365dd14fa568d67c2f105c705d221cf_w200.gif" width="80" height="80" /><img src="https://i.pinimg.com/originals/8e/a6/3f/8ea63f6cbe94a78536a20c201c69a9f5.gif" width="80" height="80" />
