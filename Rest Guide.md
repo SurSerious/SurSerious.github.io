@@ -4,10 +4,9 @@ title: "Rest Guide.md"
 permalink: /rest/
 ---
 
-***"Rest is a skill you must work at like any other"***
-
 > Quotes 
-> - You will never regret focused resting / destimulation 
+> - *Rest is a skill you must work at like any other*
+> - *You will never regret focused resting / destimulation* 
 > - *The more you allow yourself to slow down and rest, the easier it is to actualise self-improvement*
 > - *As important as it is to have a plan for doing work, it is perhaps more important to have a plan for rest, relaxation, self-care, and sleep*
 
