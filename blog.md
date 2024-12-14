@@ -18,7 +18,7 @@ The font is different on mobile and desktop, I'm not sure why that is... yet now
 
 It's been a while since I've been to my web site, what a year it has been so far...
 
-- Sunday 15/12/24
+- ***12:05 15/12/24***
 
 Pressure creates diamonds. Remember that
 
