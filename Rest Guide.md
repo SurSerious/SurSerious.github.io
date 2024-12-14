@@ -4,7 +4,7 @@ title: "Rest Guide.md"
 permalink: /rest/
 ---
 
-> Quotes 
+> ***Quotes***
 > - *Rest is a skill you must work at like any other*
 > - *You will never regret focused resting / destimulation* 
 > - *The more you allow yourself to slow down and rest, the easier it is to actualise self-improvement*
