@@ -28,7 +28,7 @@ permalink: /serious/
 	- confront poor behavior with intense eye contact
 	- take lead of the conversation
 	- Walk away when you don't want to talk anymore.
-	- Just like how it feels like I'm being mean when settling boundaries, it isn't. It isn't mean to act alpha or like a jerk, it's a form of self love and confidence
+	- It might feel like you're being mean when setting boundaries, but you're not. It isn't mean to act alpha or like a jerk, it's a form of self love and confidence
 
 
 
