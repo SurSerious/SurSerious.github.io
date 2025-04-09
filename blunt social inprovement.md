@@ -12,7 +12,7 @@ This isn’t about being liked. Just raw, unfiltered dominance in how you speak,
 
 You don’t earn respect. You take it.
 
-#### *Be proudly authentic and act in a way that is consistent with who you want to become.*
+### *Be proudly authentic and act in a way that is consistent with who you want to become.*
 
 Authenticity isn’t some feel-good self-help mantra—it’s a goddamn elimination round. Most people are out here performing like circus animals for scraps of validation. Don’t be most people.
 
