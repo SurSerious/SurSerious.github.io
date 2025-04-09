@@ -4,15 +4,13 @@ title: "blunt social inprovement.md"
 permalink: /bluntsocialinprovement/
 ---
 
-# ***Social Improvement 101: Blunt Edition.***
+# Social Improvement 101: Blunt Edition.
 
-Hey sweetie, stop half assing this shit, man the fuck up and actualise social skills improvement. This is Social Improvement 101: Blunt Edition.
+This isn’t about being *liked.* Just raw, unfiltered dominance in how you speak, listen, and command attention.  You don’t *earn* respect. You **take it.**
 
-This isn’t about being liked. Just raw, unfiltered dominance in how you speak, listen, and command attention.
+Now. Read. Apply. Or stay irrelevant.**
 
-You don’t earn respect. You take it.
-
-## *Be proudly authentic and act in a way that is consistent with who you want to become.*
+# *Be proudly authentic and act in a way that is consistent with who you want to become.*
 
 Authenticity isn’t some feel-good self-help mantra—it’s a goddamn elimination round. Most people are out here performing like circus animals for scraps of validation. Don’t be most people.
 
@@ -24,7 +22,7 @@ Here’s the brutal truth: The person you aspire to be? Start acting like them n
 
 Sincerity isn’t ‘nice’—it’s a filter. Let it burn away the dead weight. The right people won’t just find you—they’ll recognize you like a fucking war cry in the dark.
 
-## *Be present and focused on the conversation*
+# *Be present and focused on the conversation*
 
 Social skills aren't about charm - they're about weaponized attention. Most people are just emotional vultures waiting to rip open your sentence and feast on the pause where they can insert their own bullshit. Don't be most people.
 
@@ -42,7 +40,7 @@ And for Christ's sake, stop mirroring people like some pathetic social chameleon
 
 Grace is for people who still give a shit. You? You move like every silence is a dare, every glance a challenge. Awkwardness isn't real—it's just power waiting to be claimed. So take it. Mold the conversation like clay, and if it bleeds a little? Good. That means they're paying attention.
 
-## *Be clear, confident, and intentional in your speech*
+# *Be clear, confident, and intentional in your speech*
 
 Speaking clearly isn't about politeness—it's social warfare. Every mumbled word, every hesitant pause is territory surrendered. Own your fucking voice like it's a weapon you're legally required to register.
 
