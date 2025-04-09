@@ -36,7 +36,7 @@ Charm isn't about being liked—it's about controlled emotional arson. You're no
 
 Forget 'warm and comfortable'—that's for kindergarten teachers and HR reps. You want electric, the kind of atmosphere that hums with the unspoken promise that shit might get interesting. Crack a joke sharp enough to draw blood, then stitch it up with a grin. Watch their pupils dilate.
 
-And for Christ's sake, stop mirroring people like some pathetic social chameleon. You're not a fucking background actor. Own your weirdness. That pause where they wait for you to dumb yourself down? Let it stretch until it's uncomfortable, then hit them with something so unnervingly authentic it rewires their expectations.
+And for fucks sake, stop mirroring people like some pathetic social chameleon. You're not a fucking background actor. Own your weirdness. That pause where they wait for you to dumb yourself down? Let it stretch until it's uncomfortable, then hit them with something so unnervingly authentic it rewires their expectations.
 
 Grace is for people who still give a shit. You? You move like every silence is a dare, every glance a challenge. Awkwardness isn't real—it's just power waiting to be claimed. So take it. Mold the conversation like clay, and if it bleeds a little? Good. That means they're paying attention.
 
