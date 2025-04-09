@@ -23,3 +23,21 @@ Forced coolness? Pathetic. You think people can’t smell that tryhard desperati
 Here’s the brutal truth: The person you aspire to be? Start acting like them now. Not tomorrow, not when it’s convenient—today. Every compromised moment is a debt against your future self. Pay up or stay hollow.
 
 Sincerity isn’t ‘nice’—it’s a filter. Let it burn away the dead weight. The right people won’t just find you—they’ll recognize you like a fucking war cry in the dark.
+
+## *Be present and focused on the conversation*
+
+Social skills aren't about charm - they're about weaponized attention. Most people are just emotional vultures waiting to rip open your sentence and feast on the pause where they can insert their own bullshit. Don't be most people.
+
+Real listening is a violent act - you strangle your own ego at the door. Eye contact like a fucking interrogation. Nods sharp as gunshots. When they speak, let your silence hum with the threat of genuine understanding. Most can't handle it. Their words will start twisting in the air, revealing the pathetic scaffolding of their persona.
+
+This isn't about connection. This is social jiu-jitsu. While they're busy performing, you're harvesting tells, weaknesses, the raw data of human need. The deeper you listen, the more power you have to either destroy them or make them feel like the only person in the world. Choose wisely.
+
+# Be charismatic and charming
+
+Charm isn't about being liked—it's about controlled emotional arson. You're not here to make friends; you're here to make moments. Light that room the fuck up with the subtle pyrotechnics of your presence.
+
+Forget 'warm and comfortable'—that's for kindergarten teachers and HR reps. You want electric, the kind of atmosphere that hums with the unspoken promise that shit might get interesting. Crack a joke sharp enough to draw blood, then stitch it up with a grin. Watch their pupils dilate.
+
+And for Christ's sake, stop mirroring people like some pathetic social chameleon. You're not a fucking background actor. Own your weirdness. That pause where they wait for you to dumb yourself down? Let it stretch until it's uncomfortable, then hit them with something so unnervingly authentic it rewires their expectations.
+
+Grace is for people who still give a shit. You? You move like every silence is a dare, every glance a challenge. Awkwardness isn't real—it's just power waiting to be claimed. So take it. Mold the conversation like clay, and if it bleeds a little? Good. That means they're paying attention.
