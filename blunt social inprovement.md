@@ -41,3 +41,13 @@ Forget 'warm and comfortable'—that's for kindergarten teachers and HR reps. Yo
 And for Christ's sake, stop mirroring people like some pathetic social chameleon. You're not a fucking background actor. Own your weirdness. That pause where they wait for you to dumb yourself down? Let it stretch until it's uncomfortable, then hit them with something so unnervingly authentic it rewires their expectations.
 
 Grace is for people who still give a shit. You? You move like every silence is a dare, every glance a challenge. Awkwardness isn't real—it's just power waiting to be claimed. So take it. Mold the conversation like clay, and if it bleeds a little? Good. That means they're paying attention.
+
+## *Be clear, confident, and intentional in your speech*
+
+Speaking clearly isn't about politeness—it's social warfare. Every mumbled word, every hesitant pause is territory surrendered. Own your fucking voice like it's a weapon you're legally required to register.
+
+Ambiguity is for politicians and cowards. Slash through it. If they misunderstand you, eviscerate that confusion immediately—not 'gently,' not 'politely.' Precision is violence. Let your sentences land like scalpels.
+
+And stop with the performative listening bullshit. Those mindless 'uh-huhs' and head nods? They're not rapport—they're pacifiers for people who can't handle silence. When you speak, make them wait. Let the air between words thicken until they lean in. That's when you strike.
+
+Eye contact isn't 'polite'—it's a dominance display. Hold it until they question their life choices. Your voice isn't 'heard'—it's implanted. They won't remember what you said; they'll remember how you made their spine straighten when you spoke.
