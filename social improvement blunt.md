@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "blunt improvement.md"
+title: "social improvement blunt.md"
 permalink: /bluntinprovement/
 ---
 
