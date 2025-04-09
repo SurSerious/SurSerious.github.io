@@ -4,7 +4,7 @@ title: "blunt social inprovement.md"
 permalink: /bluntsocialinprovement/
 ---
 
-# Social Improvement 101: Blunt Edition.
+# ***Social Improvement 101: Blunt Edition.***
 
 Hey sweetie, stop half assing this shit, man the fuck up and actualise social skills improvement. This is Social Improvement 101: Blunt Edition.
 
@@ -12,7 +12,7 @@ This isn’t about being liked. Just raw, unfiltered dominance in how you speak,
 
 You don’t earn respect. You take it.
 
-### *Be proudly authentic and act in a way that is consistent with who you want to become.*
+## *Be proudly authentic and act in a way that is consistent with who you want to become.*
 
 Authenticity isn’t some feel-good self-help mantra—it’s a goddamn elimination round. Most people are out here performing like circus animals for scraps of validation. Don’t be most people.
 
@@ -32,7 +32,7 @@ Real listening is a violent act - you strangle your own ego at the door. Eye con
 
 This isn't about connection. This is social jiu-jitsu. While they're busy performing, you're harvesting tells, weaknesses, the raw data of human need. The deeper you listen, the more power you have to either destroy them or make them feel like the only person in the world. Choose wisely.
 
-# Be charismatic and charming
+# *Be charismatic and charming*
 
 Charm isn't about being liked—it's about controlled emotional arson. You're not here to make friends; you're here to make moments. Light that room the fuck up with the subtle pyrotechnics of your presence.
 
