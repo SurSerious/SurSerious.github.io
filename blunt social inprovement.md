@@ -49,3 +49,13 @@ Ambiguity is for politicians and cowards. Slash through it. If they misunderstan
 And stop with the performative listening bullshit. Those mindless 'uh-huhs' and head nods? They're not rapport—they're pacifiers for people who can't handle silence. When you speak, make them wait. Let the air between words thicken until they lean in. That's when you strike.
 
 Eye contact isn't 'polite'—it's a dominance display. Hold it until they question their life choices. Your voice isn't 'heard'—it's implanted. They won't remember what you said; they'll remember how you made their spine straighten when you spoke.
+
+# *Be confident and assertive*
+
+Confidence isn’t earned—it’s taken. Eye contact isn’t ‘attentiveness,’ it’s a silent challenge: Try me. Bluntness isn’t rude—it’s mercy. Most people drown in their own ambiguity. Cut through it.**
+
+If a conversation turns toxic, don’t ‘change the topic.’ Burn the whole fucking dialogue to the ground. Walk away like the room’s on fire—because it is. Your time isn’t a charity. Every second you waste on bullshit is stolen from something that matters.
+
+Assertiveness isn’t about being liked—it’s about being unignorable. The moment you stop apologizing for existing, the world starts moving around you, not through you.
+
+Respect isn’t given. It’s enforced.
