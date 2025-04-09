@@ -1,3 +1,9 @@
+---
+layout: default
+title: "blunt improvement.md"
+permalink: /bluntinprovement/
+---
+
 # Social Improvement 101: Blunt Edition.
 
 Hey sweetie, stop half assing this shit, man the fuck up and actualise social skills improvement. This is Social Improvement 101: Blunt Edition.
