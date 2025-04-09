@@ -16,13 +16,13 @@ Authenticity isn’t some feel-good self-help mantra—it’s a goddamn eliminat
 
 If it’s not funny, your face stays stone. Let the awkwardness rot in the air like bad perfume. Watch them squirm. That’s how you spot the real ones—they’ll respect you for it, not despite it.
 
-Forced coolness? Pathetic. You think people can’t smell that tryhard desperation? It reeks like last night’s regret. Every time you contort yourself to fit in, you repel the only connections worth a damn—the ones that don’t require you to amputate your soul.
+Forced coolness? Pathetic. You think people can’t smell that try-hard desperation? It reeks like last night’s regret. Every time you contort yourself to fit in, you repel the only connections worth a damn—the ones that don’t require you to amputate your soul.
 
 Here’s the brutal truth: The person you aspire to be? Start acting like them now. Not tomorrow, not when it’s convenient—today. Every compromised moment is a debt against your future self. Pay up or stay hollow.
 
 Sincerity isn’t ‘nice’—it’s a filter. Let it burn away the dead weight. The right people won’t just find you—they’ll recognize you like a fucking war cry in the dark.
 
-# *Be present and focused on the conversation*
+# *Be present and focused on the conversation.*
 
 Social skills aren't about charm - they're about weaponized attention. Most people are just emotional vultures waiting to rip open your sentence and feast on the pause where they can insert their own bullshit. Don't be most people.
 
@@ -30,7 +30,7 @@ Real listening is a violent act - you strangle your own ego at the door. Eye con
 
 This isn't about connection. This is social jiu-jitsu. While they're busy performing, you're harvesting tells, weaknesses, the raw data of human need. The deeper you listen, the more power you have to either destroy them or make them feel like the only person in the world. Choose wisely.
 
-# *Be charismatic and charming*
+# *Be charismatic and charming.*
 
 Charm isn't about being liked—it's about controlled emotional arson. You're not here to make friends; you're here to make moments. Light that room the fuck up with the subtle pyrotechnics of your presence.
 
@@ -40,7 +40,7 @@ And for fucks sake, stop mirroring people like some pathetic social chameleon. Y
 
 Grace is for people who still give a shit. You? You move like every silence is a dare, every glance a challenge. Awkwardness isn't real—it's just power waiting to be claimed. So take it. Mold the conversation like clay, and if it bleeds a little? Good. That means they're paying attention.
 
-# *Be clear, confident, and intentional in your speech*
+# *Be clear, confident, and intentional in your speech.*
 
 Speaking clearly isn't about politeness—it's social warfare. Every mumbled word, every hesitant pause is territory surrendered. Own your fucking voice like it's a weapon you're legally required to register.
 
@@ -50,7 +50,7 @@ And stop with the performative listening bullshit. Those mindless 'uh-huhs' and 
 
 Eye contact isn't 'polite'—it's a dominance display. Hold it until they question their life choices. Your voice isn't 'heard'—it's implanted. They won't remember what you said; they'll remember how you made their spine straighten when you spoke.
 
-# *Be confident and assertive*
+# *Be confident and assertive.*
 
 Confidence isn’t earned—it’s taken. Eye contact isn’t ‘attentiveness,’ it’s a silent challenge: Try me. Bluntness isn’t rude—it’s mercy. Most people drown in their own ambiguity. Cut through it.**
 
