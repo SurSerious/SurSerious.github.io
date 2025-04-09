@@ -8,7 +8,7 @@ permalink: /bluntsocialinprovement/
 
 This isn’t about being *liked.* Just raw, unfiltered dominance in how you speak, listen, and command attention.  You don’t *earn* respect. You **take it.**
 
-Now. Read. Apply. Or stay irrelevant.**
+Now. Read. Apply. Or stay **irrelevant.**
 
 # *Be proudly authentic and act in a way that is consistent with who you want to become.*
 
