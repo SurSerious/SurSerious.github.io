@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "motivation.md"
-permalink: /motivation/
+title: "focus.md"
+permalink: /focus/
 ---
 
 <div align="center">
