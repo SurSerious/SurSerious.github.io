@@ -96,3 +96,5 @@ Focus is your brain’s superpower. It lets you:
 Focus isn’t about willpower—it’s about **strategy**. Start small, remove distractions, and build consistency.  
 
 **"Concentration is the secret of strength."** — Ralph Waldo Emerson  
+
+AI slop but hey, it's alright advice. I love the cat gif
