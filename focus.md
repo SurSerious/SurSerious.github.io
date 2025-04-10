@@ -97,4 +97,4 @@ Focus isn’t about willpower—it’s about **strategy**. Start small, remove d
 
 **"Concentration is the secret of strength."** — Ralph Waldo Emerson  
 
-AI slop but hey, it's alright advice. I love the cat gif
+AI slop but hey, it's alright advice. I love the cat gif.
