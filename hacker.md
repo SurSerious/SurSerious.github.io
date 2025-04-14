@@ -13,6 +13,7 @@ permalink: /hacker/
 </style>
 
 
+
 <style>
   .hacker-text {
     font-family: 'Courier New', monospace;
@@ -24,24 +25,16 @@ permalink: /hacker/
       -1px 1px 0 #000,
       1px 1px 0 #000;
   }
-
-  /* Scale BOTH elements 3x their default sizes */
-  .hacker-text.h1 {
-    font-size: 3em; /* Default <h1> is ~2em, so this makes it ~6x normal text */
-  }
-  .hacker-text.p {
-    font-size: 3em; /* Default <p> is 1em, so this triples it */
-  }
-
-  /* Container (unchanged) */
+  h1.hacker-text { font-size: calc(2em * 3); } /* 3x original <h1> size */
+  p.hacker-text { font-size: calc(1em * 3); }  /* 3x original <p> size */
+  
   .text-container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
   }
 </style>
 
 <div class="text-container">
-  <h1 class="hacker-text h1">YOUR TITLE HERE</h1>  <!-- Now 3x larger than default <h1> -->
-  <p class="hacker-text p">Your paragraph text, now 3x normal size.</p>  <!-- 3x default <p> -->
+  <h1 class="hacker-text">YOUR TITLE HERE!</h1>  <!-- Now 6em (3x default 2em) -->
+  <p class="hacker-text">Your paragraph text me when</p>  <!-- Now 3em (3x default 1em) -->
 </div>
