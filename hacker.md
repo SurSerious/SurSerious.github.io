@@ -6,7 +6,7 @@ permalink: /hacker/
 
 <style>
   body {
-    background-image: url('https://media0.giphy.com/media/YWbM6nDnBo8X7WIKpl/giphy.gif?cid=6c09b952lqwxcsat7u4o8hosjkmctyqzmkso6ib45vnff8bh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    background-image: url('https://media1.giphy.com/media/3o7aCQjtpr8pi544YU/giphy.gif?cid=6c09b952mr71jvwfh04dazg5qojobeoc2aycdxcle8rvy7ol&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
     background-repeat: repeat; /* Tiles the GIF infinitely */
     margin: 0;
     padding: 20px;
