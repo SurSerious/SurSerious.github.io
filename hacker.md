@@ -21,10 +21,6 @@ permalink: /hacker/
   }
 </style>
 
-<div class="content">
-  # Your Content Here
-  The psychedelic GIF will tile across the entire background!
-</div>
 
 ## demo test results for the first 
 
