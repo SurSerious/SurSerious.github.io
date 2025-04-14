@@ -15,15 +15,24 @@ permalink: /hacker/
 
 <style>
   .hacker-text {
-    font-family: 'Courier New', monospace; /* Classic hacker font */
-    color: #39FF14; /* Pure neon green */
+    font-family: 'Courier New', monospace;
+    color: #39FF14;
+    text-align: center; /* Add this line to center text */
     text-shadow: 
       -1px -1px 0 #000,
       1px -1px 0 #000,
       -1px 1px 0 #000,
-      1px 1px 0 #000; /* Creates a thin black outline */
+      1px 1px 0 #000;
+  }
+  
+  /* Optional: Center the entire block horizontally */
+  .text-container {
+    max-width: 800px;
+    margin: 0 auto;
   }
 </style>
 
-<h1 class="hacker-text">YOUR TITLE HERE</h1>
-<p class="hacker-text">Your paragraph text with the same styling.</p>
+<div class="text-container"> <!-- Wrapper for perfect centering -->
+  <h1 class="hacker-text">YOUR TITLE HERE</h1>
+  <p class="hacker-text">Your paragraph text with the same styling.</p>
+</div>
