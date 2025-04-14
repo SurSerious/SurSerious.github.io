@@ -25,7 +25,7 @@ permalink: /hacker/
       -1px 1px 0 #000,
       1px 1px 0 #000;
   }
-  h1.hacker-text { font-size: 4.5rem; } /* 3x normal heading size */
+  h1.hacker-text { font-size: 8rem; } /* 3x normal heading size */
   p.hacker-text { font-size: 3rem; }    /* 3x normal paragraph size */
   
   .text-container {
