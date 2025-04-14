@@ -25,8 +25,8 @@ permalink: /hacker/
       -1px 1px 0 #000,
       1px 1px 0 #000;
   }
-  h1.hacker-text { font-size: calc(2em * 3); } /* 3x original <h1> size */
-  p.hacker-text { font-size: calc(1em * 3); }  /* 3x original <p> size */
+  h1.hacker-text { font-size: 4.5rem; } /* 3x normal heading size */
+  p.hacker-text { font-size: 3rem; }    /* 3x normal paragraph size */
   
   .text-container {
     max-width: 800px;
@@ -35,6 +35,6 @@ permalink: /hacker/
 </style>
 
 <div class="text-container">
-  <h1 class="hacker-text">YOUR TITLE HERE!</h1>  <!-- Now 6em (3x default 2em) -->
-  <p class="hacker-text">Your paragraph text me when</p>  <!-- Now 3em (3x default 1em) -->
+  <h1 class="hacker-text">YOUR TITLE HERE</h1>
+  <p class="hacker-text">Your paragraph text.</p>
 </div>
