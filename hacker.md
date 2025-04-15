@@ -16,22 +16,23 @@ permalink: /hacker/
   .hacker-text {
     font-family: 'Courier New', monospace;
     color: #39FF14;
-    text-align: center; /* Add this line to center text */
-    text-shadow: 
-      -1px -1px 0 #000,
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-      1px 1px 0 #000;
+    text-align: center;
+
+    /* Solid black outline */
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black; /* for future compatibility */
+    
+    /* Remove all text-shadows */
+    text-shadow: none;
   }
-  
-  /* Optional: Center the entire block horizontally */
+
   .text-container {
     max-width: 800px;
     margin: 0 auto;
   }
 </style>
 
-<div class="text-container"> <!-- Wrapper for perfect centering -->
-  <h1 class="hacker-text">YOUR TITLE HERE</h1>
-  <p class="hacker-text">Your paragraph text with the same styling.</p>
+<div class="text-container">
+  <h1 class="hacker-text">YOUR TITLE</h1>
+  <p class="hacker-text">Your paragraph text.</p>
 </div>
