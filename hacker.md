@@ -12,6 +12,6 @@ permalink: /hacker/
   }
 </style>
 
-# <span style="color: #39FF14; -webkit-text-stroke: 1.5px #000; text-shadow: -1px -1px 0 #000, -1px 0px 0 #000, -1px 1px 0 #000, 0px -1px 0 #000, 0px 1px 0 #000, 1px -1px 0 #000, 1px 0px 0 #000, 1px 1px 0 #000;">title text</span>
+# <span style="color: #39FF14;">title text</span>
 
-<span style="color: #39FF14; -webkit-text-stroke: 1.5px #000; text-shadow: -1px -1px 0 #000, -1px 0px 0 #000, -1px 1px 0 #000, 0px -1px 0 #000, 0px 1px 0 #000, 1px -1px 0 #000, 1px 0px 0 #000, 1px 1px 0 #000;">body text</span>
+<span style="color: #39FF14;">body text</span>
