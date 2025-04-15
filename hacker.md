@@ -70,6 +70,28 @@ permalink: /hacker/
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 <p align="center">
   <img src="https://media4.giphy.com/media/YGIpIZjgxL68w/giphy.gif?cid=6c09b95291bq1zzydu4mzycrhu1sroeqabbbhfk3ry7lqmik&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Hacker GIF">
 </p>
