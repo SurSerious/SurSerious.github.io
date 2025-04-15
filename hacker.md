@@ -20,10 +20,10 @@ permalink: /hacker/
     color: #39FF14;
     text-align: center;
     text-shadow: 
-      -1px 0 0 #000,
-      0 -1px 0 #000,
-      1px 0 0 #000,
-      0 1px 0 #000;
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
   }
   
   .text-container {
