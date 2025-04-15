@@ -28,7 +28,7 @@ permalink: /hacker/
   
   /* Heading - 3x larger (default h1 is ~32px) */
   h1.hacker-text {
-    font-size: 96px; /* 32px × 3 */
+    font-size: 128px; /* 32px × 3 */
   }
   
   /* Paragraph - 3x larger (default p is ~16px) */
