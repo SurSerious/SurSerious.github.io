@@ -17,9 +17,12 @@ permalink: /hacker/
 </div>
 
 <div style="text-align: center;">
-  <h1 style="color: #39FF14;">title text</h1>
-  <p style="color: #39FF14;">Welcome to the terminal. You're now jacked into a stream of raw data, exploits, and digital chaos. This isn't just a website—it's a backdoor to the underground. Scroll carefully... you never know what you’ll uncover.</p>
+  <h1 style="color: #39FF14; text-shadow: 0 0 4px black;">title text</h1>
+  <p style="color: #39FF14; text-shadow: 0 0 4px black;">
+    Welcome to the terminal. You're now jacked into a stream of raw data, exploits, and digital chaos. This isn't just a website—it's a backdoor to the underground. Scroll carefully... you never know what you’ll uncover.
+  </p>
 </div>
+
 
 <br>
 
