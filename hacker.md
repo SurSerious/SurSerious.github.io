@@ -25,8 +25,16 @@ permalink: /hacker/
       -1px 1px 0 #000,
       1px 1px 0 #000;
   }
-  h1.hacker-text { font-size: 8rem; } /* 3x normal heading size */
-  p.hacker-text { font-size: 3rem; }    /* 3x normal paragraph size */
+  
+  /* Heading - 3x larger (default h1 is ~32px) */
+  h1.hacker-text {
+    font-size: 96px; /* 32px × 3 */
+  }
+  
+  /* Paragraph - 3x larger (default p is ~16px) */
+  p.hacker-text {
+    font-size: 48px; /* 16px × 3 */
+  }
   
   .text-container {
     max-width: 800px;
@@ -35,6 +43,6 @@ permalink: /hacker/
 </style>
 
 <div class="text-container">
-  <h1 class="hacker-text">YOUR TITLE HERE</h1>
+  <h1 class="hacker-text">YOUR TITLE</h1>
   <p class="hacker-text">Your paragraph text.</p>
 </div>
