@@ -12,6 +12,7 @@ permalink: /hacker/
   }
 </style>
 
-# <span style="color: #39FF14;">title text</span>
-
-<span style="color: #39FF14;">body text</span>
+<div style="text-align: center;">
+  <h1 style="color: #39FF14;">title text</h1>
+  <p style="color: #39FF14;">body text</p>
+</div>
