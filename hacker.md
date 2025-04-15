@@ -9,26 +9,27 @@ permalink: /hacker/
     background-image: url('https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif');
     background-repeat: repeat;
     margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
   }
-</style>
 
-<style>
   .hacker-text {
     font-family: 'Courier New', monospace;
     color: #39FF14;
     text-align: center;
-
-    /* Solid black outline */
-    -webkit-text-stroke: 1px black;
-    text-stroke: 1px black; /* for future compatibility */
-    
-    /* Remove all text-shadows */
-    text-shadow: none;
+    /* Perfect 1px solid outline (works in modern browsers) */
+    -webkit-text-stroke: 1px #000;
+    paint-order: stroke fill; /* Ensures outline appears behind text */
+    letter-spacing: 0.5px; /* Improves outline clarity */
   }
 
   .text-container {
+    background-color: rgba(0, 0, 0, 0.7); /* Optional: better readability */
+    padding: 2rem;
     max-width: 800px;
     margin: 0 auto;
+    width: 90%;
   }
 </style>
 
