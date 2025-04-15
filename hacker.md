@@ -12,6 +12,6 @@ permalink: /hacker/
   }
 </style>
 
-# and I will have a 
+# <span style="color: #39FF14; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">title text</span>
 
-gggyyyhh
+<span style="color: #39FF14; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">body text</span>
