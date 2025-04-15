@@ -13,6 +13,10 @@ permalink: /hacker/
 </style>
 
 <div style="text-align: center;">
+  <img src="https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif" alt="Hacker Hamster">
+</div>
+
+<div style="text-align: center;">
   <h1 style="color: #39FF14;">title text</h1>
   <p style="color: #39FF14;">body text</p>
 </div>
