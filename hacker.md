@@ -20,14 +20,14 @@ permalink: /hacker/
     color: #39FF14;
     text-align: center;
     text-shadow: 
-      -2px -2px 0 #000,  /* Increased from 1px to 2px */
-      0px -2px 0 #000,
-      2px -2px 0 #000,
-      -2px 0px 0 #000,
-      2px 0px 0 #000,
-      -2px 2px 0 #000,
-      0px 2px 0 #000,
-      2px 2px 0 #000;  /* Full 8-direction outline */
+      -2px -2px 0 #000,  /* Top-left */
+      -2px 0px 0 #000,    /* Left */
+      -2px 2px 0 #000,    /* Bottom-left */
+      0px -2px 0 #000,    /* Top */
+      0px 2px 0 #000,     /* Bottom */
+      2px -2px 0 #000,    /* Top-right */
+      2px 0px 0 #000,     /* Right */
+      2px 2px 0 #000;     /* Bottom-right */
   }
   
   .text-container {
