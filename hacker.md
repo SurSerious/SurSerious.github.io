@@ -20,20 +20,14 @@ permalink: /hacker/
     color: #39FF14;
     text-align: center;
     text-shadow: 
-      -1px -1px 0 #000,
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-      1px 1px 0 #000;
-  }
-  
-  /* Heading - 3x larger (default h1 is ~32px) */
-  h1.hacker-text {
-    font-size: 128px; /* 32px × 3 */
-  }
-  
-  /* Paragraph - 3x larger (default p is ~16px) */
-  p.hacker-text {
-    font-size: 48px; /* 16px × 3 */
+      -2px -2px 0 #000,  /* Increased from 1px to 2px */
+      0px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 0px 0 #000,
+      2px 0px 0 #000,
+      -2px 2px 0 #000,
+      0px 2px 0 #000,
+      2px 2px 0 #000;  /* Full 8-direction outline */
   }
   
   .text-container {
