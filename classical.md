@@ -8,7 +8,7 @@ permalink: /classical/
 <h2>Classical Music Player</h2>
 
 <audio id="bg-music" controls>
-  <source src="./assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
+  <source src="PianoConcerto.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
