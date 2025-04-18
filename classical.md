@@ -4,28 +4,32 @@ title: "classical.md"
 permalink: /classical/
 ---
 
-<audio id="bg-music" loop>
+<audio id="bg-music" loop muted>
   <source src="/assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 <button id="playMusic">Play Music</button>
 
 <script>
-  document.getElementById('playMusic').addEventListener('click', function () {
-    const audio = document.getElementById('bg-music');
-    audio.play().then(() => {
-      console.log('Playback started');
-    }).catch((err) => {
-      console.log('Playback failed:', err);
-    });
-  });
+  const audio = document.getElementById('bg-music');
 
-  // Try autoplay on page load (may be blocked, but still worth attempting)
+  // Attempt to autoplay silently
   window.addEventListener('load', function () {
-    const audio = document.getElementById('bg-music');
-    audio.play().catch(error => {
+    audio.play().then(() => {
+      console.log('Autoplay started (muted)');
+    }).catch(error => {
       console.log('Autoplay was prevented:', error);
     });
   });
-</script>
 
+  // Button to unmute and play
+  document.getElementById('playMusic').addEventListener('click', function () {
+    audio.muted = false;
+    audio.play().then(() => {
+      console.log('Playback started after unmuting');
+    }).catch(err => {
+      console.log('Playback failed:', err);
+    });
+  });
+</script>
