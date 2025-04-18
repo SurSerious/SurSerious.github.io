@@ -8,9 +8,7 @@ permalink: /classical/
 <h2>Classical Music Player</h2>
 
 <audio id="bg-music" controls preload="auto">
-  <source src="assets/music/PianoConcerto.ogg" type="audio/ogg">
-  <!-- Add MP3 as fallback if you still have it -->
-  <source src="assets/music/PianoConcerto.mp3" type="audio/mpeg">
+  <source src="https://surserious.github.io/assets/music/PianoConcerto.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
