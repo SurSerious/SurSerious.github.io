@@ -4,11 +4,11 @@ title: "classical.md"
 permalink: /classical/
 ---
 
-## Welcome to My Classical Music Page
+## Classical Music Player
 
-Click below to play the music.
+Click below to enable and play the music.
 
-<audio id="bg-music" loop>
+<audio id="bg-music" loop muted>
   <source src="/assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -21,9 +21,12 @@ Click below to play the music.
     const audio = document.getElementById('bg-music');
 
     button.addEventListener('click', function () {
-      audio.currentTime = 0;  // Start from the beginning
-      audio.muted = false;    // Make sure it's not muted
-      audio.play()            // Attempt to play the audio
+      // Start audio from the beginning and unmute
+      audio.currentTime = 0;
+      audio.muted = false;
+
+      // Attempt to play the audio after user clicks
+      audio.play()
         .then(() => {
           console.log('Music is playing!');
         })
