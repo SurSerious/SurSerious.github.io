@@ -8,6 +8,9 @@ permalink: /classical/
   <source src="/assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
 </audio>
 
+<button onclick="document.getElementById('bg-music').play()">Play Music</button>
+
+
 <script>
   window.addEventListener('load', function () {
     const audio = document.getElementById('bg-music');
