@@ -5,7 +5,7 @@ permalink: /classical/
 ---
 
 <audio id="bg-music" loop>
-  <source src="/assets/music/Piano Concerto No. 21 in C Major.mp3" type="audio/mpeg">
+  <source src="/assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
 </audio>
 
 <script>
