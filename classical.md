@@ -4,9 +4,9 @@ title: "classical.md"
 permalink: /classical/
 ---
 
-## Welcome to My Page
+## Welcome to My Classical Music Page
 
-Click the button below to play music.
+Click below to play the music.
 
 <audio id="bg-music" loop>
   <source src="/assets/music/Piano_Concerto_No_21_in_C_Major.mp3" type="audio/mpeg">
@@ -21,15 +21,16 @@ Click the button below to play music.
     const audio = document.getElementById('bg-music');
 
     button.addEventListener('click', function () {
-      audio.currentTime = 0;
-      audio.muted = false;
-
-      audio.play().then(() => {
-        console.log('Music is playing!');
-      }).catch(err => {
-        console.error('Play failed:', err);
-        alert('Your browser is blocking audio playback. Tap the page or allow autoplay.');
-      });
+      audio.currentTime = 0;  // Start from the beginning
+      audio.muted = false;    // Make sure it's not muted
+      audio.play()            // Attempt to play the audio
+        .then(() => {
+          console.log('Music is playing!');
+        })
+        .catch(err => {
+          console.error('Play failed:', err);
+          alert('Browser is blocking audio playback. Try tapping anywhere on the page.');
+        });
     });
   });
 </script>
