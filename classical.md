@@ -41,3 +41,13 @@ permalink: /classical/
 
 
 <!-- embedd end -->
+
+<p>
+  Erik Satie (1866–1925) revolutionized classical music through his radical minimalism and avant-garde spirit. 
+  A visionary who bridged Romanticism and Modernism, his <i>Gymnopédies</i> redefined piano composition with 
+  hypnotic simplicity, while works like <i>Parade</i> (with Picasso) shattered traditional performance norms. 
+  Satie pioneered "furniture music" (early ambient music), composed pieces with absurdist titles like 
+  <i>Three Pieces in the Shape of a Pear</i>, and influenced everyone from Debussy to John Cage. His ability 
+  to distill profound emotion into sparse, crystalline melodies—heard in timeless works like 
+  <i>Gnossienne No. 1</i>—cements his legacy as music’s great iconoclast.
+</p>
