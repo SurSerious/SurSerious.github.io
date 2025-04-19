@@ -16,17 +16,25 @@ layout: default
     color: #000000 !important;
   }
 
-  /* Text styling */
-  .paper-container * {
-    color: #000000 !important;
-  }
-
-  .paper-container h1 {
-    font-family: "Apple Chancery", "Brush Script MT", cursive;
+  /* Text styling - all headings centered */
+  .paper-container h1,
+  .paper-container h2,
+  .paper-container h3,
+  .paper-container h4,
+  .paper-container h5,
+  .paper-container h6 {
     text-align: center;
-    margin-bottom: 30px;
+    font-family: "Apple Chancery", "Brush Script MT", cursive;
+    margin: 0 0 20px 0;
   }
 
+  /* Specific h1 styling */
+  .paper-container h1 {
+    margin-bottom: 30px;
+    font-size: 2.2em;
+  }
+
+  /* Paragraph styling */
   .paper-container p {
     text-align: justify;
     text-align-last: center;
@@ -51,6 +59,10 @@ layout: default
     .paper-container {
       width: 90%;
       padding: 30px 5%;
+    }
+    
+    .paper-container h1 {
+      font-size: 1.8em;
     }
   }
 </style>
