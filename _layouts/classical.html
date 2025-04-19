@@ -60,3 +60,188 @@ layout: default
 <div class="paper-container">
   {{ content }}
 </div>
+
+<style>
+  /* [Keep all your existing paper styling] */
+
+  /* Enhanced Music Player Styles */
+  .music-player {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 400px;
+    background: rgba(255,255,255,0.95);
+    padding: 12px 15px;
+    border-radius: 50px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(255,255,255,0.2);
+  }
+
+  .player-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .progress-container {
+    flex-grow: 1;
+    height: 4px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 0 8px;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: #6a3093;
+    border-radius: 2px;
+    width: 0%;
+    transition: width 0.1s linear;
+  }
+
+  .time-display {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #555;
+    font-family: monospace;
+    margin-top: -5px;
+  }
+
+  .volume-control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s;
+  }
+
+  button:hover {
+    background: rgba(0,0,0,0.05);
+  }
+
+  input[type="range"] {
+    width: 80px;
+    height: 4px;
+    accent-color: #6a3093;
+    cursor: pointer;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .music-player {
+      width: 90%;
+      bottom: 10px;
+      padding: 10px 12px;
+    }
+  }
+</style>
+
+<!-- Audio Element -->
+<audio id="mozartMusic">
+  <source src="/assets/music/mozart.mp3" type="audio/mpeg">
+</audio>
+
+<!-- Modern Music Player -->
+<div class="music-player">
+  <div class="player-controls">
+    <button id="playBtn" aria-label="Play/Pause">▶️</button>
+    <div class="progress-container" id="progressContainer">
+      <div class="progress-bar" id="progressBar"></div>
+    </div>
+  </div>
+  <div class="time-display">
+    <span id="currentTime">0:00</span>
+    <span id="duration">0:00</span>
+  </div>
+  <div class="volume-control">
+    <span>🔊</span>
+    <input type="range" id="volume" min="0" max="1" step="0.05" value="0.7" aria-label="Volume">
+  </div>
+</div>
+
+<script>
+  const audio = document.getElementById('mozartMusic');
+  const playBtn = document.getElementById('playBtn');
+  const progressContainer = document.getElementById('progressContainer');
+  const progressBar = document.getElementById('progressBar');
+  const currentTimeEl = document.getElementById('currentTime');
+  const durationEl = document.getElementById('duration');
+  const volumeControl = document.getElementById('volume');
+
+  // Play/Pause with better icon handling
+  function updatePlayIcon() {
+    playBtn.textContent = audio.paused ? '▶️' : '⏸️';
+  }
+
+  playBtn.addEventListener('click', () => {
+    audio.paused ? audio.play() : audio.pause();
+    updatePlayIcon();
+  });
+
+  // Progress bar updates
+  audio.addEventListener('timeupdate', () => {
+    if (!isNaN(audio.duration)) {
+      const progressPercent = (audio.currentTime / audio.duration) * 100;
+      progressBar.style.width = `${progressPercent}%`;
+      currentTimeEl.textContent = formatTime(audio.currentTime);
+    }
+  });
+
+  // Click to seek
+  progressContainer.addEventListener('click', (e) => {
+    const rect = progressContainer.getBoundingClientRect();
+    const pos = (e.clientX - rect.left) / rect.width;
+    audio.currentTime = pos * audio.duration;
+  });
+
+  // Volume control
+  volumeControl.addEventListener('input', () => {
+    audio.volume = volumeControl.value;
+    localStorage.setItem('playerVolume', volumeControl.value);
+  });
+
+  // Load saved volume
+  if (localStorage.getItem('playerVolume')) {
+    audio.volume = localStorage.getItem('playerVolume');
+    volumeControl.value = audio.volume;
+  }
+
+  // Format time (mm:ss)
+  function formatTime(seconds) {
+    const mins = Math.floor(seconds / 60);
+    const secs = Math.floor(seconds % 60);
+    return `${mins}:${secs < 10 ? '0' : ''}${secs}`;
+  }
+
+  // Update duration when ready
+  audio.addEventListener('loadedmetadata', () => {
+    if (!isNaN(audio.duration)) {
+      durationEl.textContent = formatTime(audio.duration);
+    }
+  });
+
+  // Handle audio end
+  audio.addEventListener('ended', () => {
+    progressBar.style.width = '0%';
+    currentTimeEl.textContent = '0:00';
