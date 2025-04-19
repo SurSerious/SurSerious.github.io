@@ -13,7 +13,7 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Act Seriously](/serious/)
 
-[Social Improvement 101: Blunt Edition](/bluntsocialinprovement/)
+[Social Improvement 101](/socialinprovement/)
 
 [Social-Emotional Resilience](/social-emotionalresilience/)
 
