@@ -67,3 +67,27 @@ permalink: /classical/
   to distill profound emotion into sparse, crystalline melodies—heard in timeless works like 
   <i>Gnossienne No. 1</i>—cements his legacy as <strong>the father of musical minimalism</strong>.
 </p>
+
+<h3>Vivaldi</h3>
+
+<!-- embedd start -->
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
+  <wistia-player 
+    media-id="rwy0ubutro" 
+    aspect="1.0" 
+    style="width: 150px; height: 150px;"
+  ></wistia-player>
+</div>
+
+<script src="https://fast.wistia.com/player.js" async></script>
+<script src="https://fast.wistia.com/embed/rwy0ubutro.js" async type="module"></script>
+<style>
+  wistia-player[media-id='rwy0ubutro']:not(:defined) { 
+    background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/rwy0ubutro/swatch'); 
+    display: block; 
+    filter: blur(5px); 
+  }
+</style>
+
+<!-- embedd end -->
