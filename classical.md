@@ -68,7 +68,7 @@ permalink: /classical/
   <i>Gnossienne No. 1</i>—cements his legacy as <strong>the father of musical minimalism</strong>.
 </p>
 
-<h3>Vivaldi</h3>
+<h3>Antonio Vivaldi</h3>
 
 <!-- embedd start -->
 
