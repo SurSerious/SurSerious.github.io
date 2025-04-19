@@ -6,7 +6,7 @@ permalink: /classical/
 
 <h1>The best classical composers of all time</h1>
 
-<h2>Wolfgang Amadeus Mozart</h2>
+<h4>Wolfgang Amadeus Mozart</h4>
 
 <!-- embedd start -->
 
