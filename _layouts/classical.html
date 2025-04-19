@@ -3,17 +3,37 @@ layout: default
 ---
 
 <style>
+  /* Paper styling */
   .paper-container {
-    max-width: 800px; /* Adjust width as needed */
+    max-width: 800px;
     margin: 0 auto;
     padding: 30px;
-    background-image: url('/assets/images/paper.jpeg'); /* Your paper image */
-    background-repeat: repeat-y; /* Only repeat vertically */
+    background-image: url('/assets/images/paper.jpeg');
+    background-repeat: repeat-y;
     background-position: center top;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: adds subtle shadow */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    color: #000000; /* Ensures all text inside will be black */
+    font-family: "Garamond", "Baskerville", "Times New Roman", serif; /* Classical font stack */
   }
-  
-  /* Optional: You can still keep a different background for the whole page */
+
+  /* Text content styling */
+  .paper-container h1, 
+  .paper-container h2, 
+  .paper-container h3 {
+    font-family: "Apple Chancery", "Brush Script MT", cursive;
+    text-align: center;
+    color: #000000;
+  }
+
+  .paper-container p {
+    text-align: justify;
+    text-align-last: center;
+    line-height: 1.6;
+    margin: 20px 0;
+    color: #000000;
+  }
+
+  /* Background styling */
   body {
     background-image: url('/assets/images/musicbackground.jpeg');
     background-position: center center;
@@ -21,6 +41,14 @@ layout: default
     background-attachment: fixed;
     background-size: cover;
     background-color: #464646;
+  }
+
+  /* Ensures text doesn't overflow */
+  @media screen and (max-width: 840px) {
+    .paper-container {
+      max-width: 90%;
+      padding: 20px;
+    }
   }
 </style>
 
