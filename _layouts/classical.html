@@ -3,14 +3,27 @@ layout: default
 ---
 
 <style>
+  .paper-container {
+    max-width: 800px; /* Adjust width as needed */
+    margin: 0 auto;
+    padding: 30px;
+    background-image: url('/assets/images/paper.jpeg'); /* Your paper image */
+    background-repeat: repeat-y; /* Only repeat vertically */
+    background-position: center top;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: adds subtle shadow */
+  }
+  
+  /* Optional: You can still keep a different background for the whole page */
   body {
     background-image: url('/assets/images/musicbackground.jpeg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #464646; /* Fallback color */
+    background-color: #464646;
   }
 </style>
 
-{{ content }}
+<div class="paper-container">
+  {{ content }}
+</div>
