@@ -65,5 +65,5 @@ permalink: /classical/
   Satie pioneered "furniture music" (early ambient music), composed pieces with absurdist titles like 
   <i>Three Pieces in the Shape of a Pear</i>, and influenced everyone from Debussy to John Cage. His ability 
   to distill profound emotion into sparse, crystalline melodies—heard in timeless works like 
-  <i>Gnossienne No. 1</i>—cements his legacy as music’s great iconoclast.
+  <i>Gnossienne No. 1</i>—cements his legacy as <strong>the father of musical minimalism</strong>.
 </p>
