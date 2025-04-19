@@ -23,6 +23,8 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Hacker](/hacker/)
 
+[Classical](/classical/)
+
 ## Quotes of The Week
 
 - *You’re braver than you believe, and stronger than you seem, and smarter than you think.* ~ A.A. Mine
