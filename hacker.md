@@ -23,7 +23,6 @@ permalink: /hacker/
   </p>
 </div>
 
-
 <br>
 
 <br>
