@@ -5,23 +5,27 @@ layout: default
 <style>
   /* Paper styling - now handles ALL sizing */
   .paper-container {
-    width: 780px; /* Fixed width matching your content */
+    width: 780px;
     margin: 0 auto;
-    padding: 40px 60px; /* More side padding for better paper effect */
+    padding: 40px 60px;
     background-image: url('/assets/images/paper.jpeg');
     background-repeat: repeat-y;
     background-position: center top;
-    background-size: 100% auto; /* Makes paper image match container width */
+    background-size: 100% auto;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    color: #000000;
-    font-family: "Garamond", "Baskerville", "Times New Roman", serif;
+    color: #000000 !important; /* Force black text for all child elements */
   }
 
-  /* Text styling */
+  /* Text styling - all explicitly black */
+  .paper-container * {
+    color: #000000 !important;
+  }
+
   .paper-container h1 {
     font-family: "Apple Chancery", "Brush Script MT", cursive;
     text-align: center;
     margin-bottom: 30px;
+    color: #000000 !important;
   }
 
   .paper-container p {
@@ -29,7 +33,8 @@ layout: default
     text-align-last: center;
     line-height: 1.6;
     margin: 0 0 20px 0;
-    padding: 0 10px; /* Small side padding for text */
+    padding: 0 10px;
+    color: #000000 !important;
   }
 
   /* Background styling */
