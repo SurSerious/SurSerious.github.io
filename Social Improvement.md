@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "blunt social inprovement.md"
-permalink: /bluntsocialinprovement/
+title: "Social inprovement.md"
+permalink: /socialinprovement/
 ---
 
 ***Act seriously expanded upon***
