@@ -31,6 +31,5 @@ permalink: /classical/
 <!-- embed end -->
 
 <p>
-  Wolfgang Amadeus Mozart, born in 1756 in Salzburg, remains the undisputed master of classical composition...
-  [your full paragraph here]
+  Wolfgang Amadeus Mozart (1756–1791) stands among the greatest composers in history due to his unparalleled melodic genius, mastery of form, and prolific output. A child prodigy who wrote his first symphony at age 8, Mozart perfected the Classical style with works like *The Marriage of Figaro* and *Symphony No. 40*, blending structural clarity with emotional depth. His operas revolutionized the art form, while his piano concertos and chamber music set enduring standards. Though he died tragically young at 35, his 600+ compositions—ranging from playful to profound—capture the essence of human expression, earning him a legacy as "music itself" (Rubinstein). Mozart’s ability to make complexity sound effortless solidifies his immortality.
 </p>
