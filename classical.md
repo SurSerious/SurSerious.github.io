@@ -5,7 +5,7 @@ permalink: /classical/
 ---
 
 <div style="
-  background-image: url('/assets/images/upscaled_music_portrait_4000x5333.jpeg');
+  background-image: url('/assets/images/musicbackground.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
