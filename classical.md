@@ -4,11 +4,18 @@ title: "classical.md"
 permalink: /classical/
 ---
 
-.your-background-class {
+<div style="
   background-image: url('/assets/images/musicbackground.jpeg');
-  background-size: cover;       /* Fills the container */
-  background-position: center;  /* Centers the image */
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;                /* Full viewport height */
-  width: 100%;
-}
+  min-height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+">
+  <h1>Welcome to the Music Page</h1>
+</div>
+
