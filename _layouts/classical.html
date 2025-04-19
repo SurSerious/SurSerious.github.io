@@ -3,34 +3,33 @@ layout: default
 ---
 
 <style>
-  /* Paper styling */
+  /* Paper styling - now handles ALL sizing */
   .paper-container {
-    max-width: 800px;
+    width: 780px; /* Fixed width matching your content */
     margin: 0 auto;
-    padding: 30px;
+    padding: 40px 60px; /* More side padding for better paper effect */
     background-image: url('/assets/images/paper.jpeg');
     background-repeat: repeat-y;
     background-position: center top;
+    background-size: 100% auto; /* Makes paper image match container width */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    color: #000000; /* Ensures all text inside will be black */
-    font-family: "Garamond", "Baskerville", "Times New Roman", serif; /* Classical font stack */
+    color: #000000;
+    font-family: "Garamond", "Baskerville", "Times New Roman", serif;
   }
 
-  /* Text content styling */
-  .paper-container h1, 
-  .paper-container h2, 
-  .paper-container h3 {
+  /* Text styling */
+  .paper-container h1 {
     font-family: "Apple Chancery", "Brush Script MT", cursive;
     text-align: center;
-    color: #000000;
+    margin-bottom: 30px;
   }
 
   .paper-container p {
     text-align: justify;
     text-align-last: center;
     line-height: 1.6;
-    margin: 20px 0;
-    color: #000000;
+    margin: 0 0 20px 0;
+    padding: 0 10px; /* Small side padding for text */
   }
 
   /* Background styling */
@@ -41,13 +40,14 @@ layout: default
     background-attachment: fixed;
     background-size: cover;
     background-color: #464646;
+    padding: 20px 0;
   }
 
-  /* Ensures text doesn't overflow */
-  @media screen and (max-width: 840px) {
+  /* Responsive adjustments */
+  @media screen and (max-width: 900px) {
     .paper-container {
-      max-width: 90%;
-      padding: 20px;
+      width: 90%;
+      padding: 30px 5%;
     }
   }
 </style>
