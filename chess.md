@@ -1,7 +1,9 @@
 ---
-layout: chess
+layout: default
 title: "Chess"
 permalink: /chess/
 ---
 
-Your chess content goes here. This will appear in the white semi-transparent box.
+# title text
+
+Your chess content goes here.
