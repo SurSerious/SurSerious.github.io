@@ -5,65 +5,41 @@ permalink: /chess/
 ---
 
 {% raw %}
-<!-- Container for the board -->
-<div id="chessboard" style="width: 400px; height: 400px; margin: 20px auto; border: 1px solid #ccc;"></div>
+<!-- Chessboard container - must have explicit dimensions -->
+<div id="chessboard" style="width: 400px; height: 400px; margin: 20px auto;"></div>
 
-<!-- Controls -->
-<div style="text-align: center; margin: 20px;">
-  <button id="prev-move">◀ Previous</button>
-  <button id="next-move">Next ▶</button>
-  <button id="flip-board">Flip Board</button>
-</div>
-
-<!-- Error display -->
-<div id="chess-error" style="color: red; text-align: center;"></div>
-
-<!-- Load REQUIRED CSS first -->
-<link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+<!-- Load dependencies in correct order -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.2/chess.js"></script>
 
 <script>
-// Error handling
-function showError(msg) {
-  document.getElementById('chess-error').textContent = msg;
-  console.error(msg);
-}
-
-// Check if ChessboardJS loaded
-if (typeof Chessboard === 'undefined') {
-  showError("ChessboardJS failed to load - loading now...");
-  // Dynamically load if failed
-  const css = document.createElement('link');
-  css.rel = 'stylesheet';
-  css.href = 'https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css';
-  document.head.appendChild(css);
-  
-  const script = document.createElement('script');
-  script.src = 'https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js';
-  script.onload = initChess;
-  document.head.appendChild(script);
-} else {
-  initChess();
-}
-
-function initChess() {
+// Initialize after all dependencies are loaded
+$(document).ready(function() {
   try {
-    // Initialize only if elements exist
-    if (!document.getElementById('chessboard')) {
-      showError("Chessboard element not found");
-      return;
-    }
-
     const board = Chessboard('chessboard', {
       position: 'start',
-      showErrors: 'console'
+      draggable: true
     });
     
-    document.getElementById('flip-board').addEventListener('click', () => board.flip());
-    console.log("Chessboard initialized successfully");
+    console.log("Chessboard initialized successfully!");
+    
+    // Load your game
+    const game = new Chess();
+    const pgn = `
+[Event "SolitaryLife1 vs. wweaamm"]
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Qa4 d5 5. exd5 Nxd5 6. d4 Bd6 7. dxe5 Bxe5 8.
+Nxe5 Qe7 9. Qe4 Nxe5 10. Qxd5 Nf3+ 11. Kd1 Qe1+ 12. Kc2 Bf5+ 13. Qxf5 Qxf2+ 14.
+Nd2 Rd8 15. Qxf3 Rxd2+ 16. Bxd2 Qxf3 17. gxf3 1-0
+`;
+    game.loadPgn(pgn);
+    board.position(game.fen());
     
   } catch (e) {
-    showError("Error initializing chessboard: " + e.message);
+    console.error("Initialization error:", e);
+    alert("Chessboard failed to load. Check console for details.");
   }
-}
+});
 </script>
 {% endraw %}
