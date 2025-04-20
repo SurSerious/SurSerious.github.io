@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ page.title }}</title>
-  <style>
-    body {
-      background-image: url('/assets/images/chessbackground.jpeg');
-      background-repeat: repeat;
-      margin: 0;
-      padding: 0;
-    }
-  </style>
-</head>
-<body>
-  {{ content }}
-</body>
-</html>
+---
+layout: default
+---
+
+<style>
+  html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('/assets/images/chessbackground.jpeg') !important;
+    background-repeat: repeat !important;
+    background-size: auto !important;
+  }
+</style>
+
+{{ content }}
