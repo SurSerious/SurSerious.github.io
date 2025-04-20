@@ -25,6 +25,8 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Classical](/classical/)
 
+[Chess](/chess/)
+
 ## Quotes of The Week
 
 - *You’re braver than you believe, and stronger than you seem, and smarter than you think.* ~ A.A. Mine
