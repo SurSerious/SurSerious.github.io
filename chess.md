@@ -1,13 +1,7 @@
 ---
-layout: default
-title: "chess.md"
+layout: chess
+title: "Chess"
 permalink: /chess/
 ---
 
-<style>
-  body {
-    background-image: url('/assets/images/chess background.jpg');
-    background-repeat: repeat;
-    margin: 0;
-  }
-</style>
+Your chess content goes here. This will appear in the white semi-transparent box.
