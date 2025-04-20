@@ -1,39 +1,17 @@
----
-layout: default
----
-
-<style>
-  /* Background styling - full cover, edge-to-edge, seamless repeating */
-  body {
-    background-image: url('/assets/images/chess background.jpg');
-    background-position: center center;
-    background-repeat: repeat; /* Changed to repeat for seamless tiling */
-    background-attachment: fixed;
-    background-size: cover;
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    min-height: 100vh; /* Ensure full viewport coverage */
-  }
-
-  /* Content container styling */
-  .content-container {
-    width: 780px;
-    margin: 0 auto;
-    padding: 40px 60px;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    color: #000000; /* Dark text for readability */
-  }
-
-  /* Responsive adjustments */
-  @media screen and (max-width: 900px) {
-    .content-container {
-      width: 90%;
-      padding: 30px 5%;
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      background-image: url('/assets/images/chessbackground.jpeg');
+      background-repeat: repeat;
+      margin: 0;
+      padding: 0;
     }
-  }
-</style>
-
-<div class="content-container">
+  </style>
+</head>
+<body>
   {{ content }}
-</div>
+</body>
+</html>
