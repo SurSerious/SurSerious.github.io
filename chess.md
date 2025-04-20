@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chess
 title: "Chess"
 permalink: /chess/
 ---
