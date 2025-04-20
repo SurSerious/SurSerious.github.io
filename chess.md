@@ -5,32 +5,47 @@ permalink: /chess/
 ---
 
 <style>
-  .chess-game-container {
-    position: relative;
-    width: 100%;
+  /* General styling for the page */
+  .chess-container {
     max-width: 800px;
     margin: 0 auto;
-    padding-bottom: 75%; /* This creates a 4:3 aspect ratio */
-    height: 0;
-    overflow: hidden;
+    padding: 20px;
   }
   
-  .chess-game-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
+  /* Style for the chess board container */
+  .chess-board-container {
     width: 100%;
-    height: 100%;
-    border: none;
+    max-width: 600px;
+    margin: 30px auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
   }
 </style>
 
-# One of my recent games of chess
-
-Here's one of my recent games:
-
-<div class="chess-game-container">
-  <iframe src="https://www.chess.com/embed/game/live/123442777160" allowfullscreen></iframe>
+<div class="chess-container">
+  <h1>One of my recent games of chess</h1>
+  
+  <p>Here's one of my recent games:</p>
+  
+  <div class="chess-board-container">
+    <div id="chess-board"></div>
+  </div>
+  
+  <p>Additional content about the game can go here...</p>
 </div>
 
-Additional content about the game can go here...
+<script src="https://www.chess.com/pgnviewer.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var game = new PgnViewer({
+      boardId: 'chess-board',
+      gameId: '123442777160',
+      showCoords: true,
+      width: '100%'
+    });
+  });
+</script>
