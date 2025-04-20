@@ -4,6 +4,6 @@ title: "Chess"
 permalink: /chess/
 ---
 
-# title text
+# One of my recent games of chess
 
 Your chess content goes here.
