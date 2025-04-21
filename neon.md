@@ -5,13 +5,12 @@ permalink: /neon/
 ---
 
 <style>
-  /* Target only the specific h1 with class rainbow-title */
   h1.rainbow-title {
     font-size: 3.5rem;
     font-weight: bold;
     text-align: center;
     padding: 20px;
-    margin: 30px 0;
+    margin: 30px 0 15px 0;
     animation: rainbow-glow 8s linear infinite;
     text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;
     font-family: 'Arial', sans-serif;
@@ -26,14 +25,22 @@ permalink: /neon/
     83.3% { color: #0088ff; text-shadow: 0 0 10px #0088ff, 0 0 20px #0088ff, 0 0 30px #0088ff; }
     100% { color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff; }
   }
+  
+  .rainbow-gif-container {
+    text-align: center;
+    margin: 0 auto 30px auto;
+  }
+  
+  .rainbow-gif {
+    max-width: 100%;
+    height: auto;
+  }
 </style>
 
 <h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
 
-This is your neon-themed page content. Only the heading above has the rainbow glowing effect, while this text remains normal.
+<div class="rainbow-gif-container">
+  <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
+</div>
 
-## This is a level 2 heading
-This text and heading are not affected by the rainbow styling.
-
-### Another heading
-More normal text here without any special effects.
+This is your neon-themed page content. The rainbow GIF is centered below the title.
