@@ -72,7 +72,9 @@ permalink: /neon/
       <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
     </div>
 
-    <p>This is your neon-themed page content. The rainbow GIF is centered below the title.</p>
+  <p style="text-align: center; color: #39FF14; font-style: italic; text-shadow: 0 0 10px #39FF14;">  
+Do I Really See Everything For What It Is Or Is It That I Can't See Anything With Such A Bad Case Of Denial  
+</p>  
     
     <!-- Your actual content goes here -->
   </div>
