@@ -32,7 +32,7 @@ permalink: /neon/
   }
   
   .rainbow-gif {
-    max-width: 100%;
+    width: 175px;
     height: auto;
   }
 </style>
