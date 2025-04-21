@@ -5,6 +5,12 @@ permalink: /neon/
 ---
 
 <style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+
   h1.rainbow-title {
     font-size: 3.5rem;
     font-weight: bold;
@@ -36,34 +42,41 @@ permalink: /neon/
     height: auto;
   }
   
+  /* Content container with flex to push footer to bottom */
+  .page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
   /* Footer rainbow GIF styling */
   .footer-rainbow {
     width: 100%;
+    height: 20px; /* Reduced height */
+    object-fit: cover; /* Stretches the image */
     display: block;
-    margin-top: 50px; /* Space above the footer */
-  }
-  
-  /* Add some minimum content height to ensure scrolling */
-  .content-wrapper {
-    min-height: 100vh; /* Makes content at least full viewport height */
+    margin: 0;
+    padding: 0;
   }
 </style>
 
-<div class="content-wrapper">
-  <h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
+<div class="page-container">
+  <div class="content">
+    <h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
 
-  <div class="rainbow-gif-container">
-    <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
-  </div>
+    <div class="rainbow-gif-container">
+      <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
+    </div>
 
-  <p>This is your neon-themed page content. The rainbow GIF is centered below the title.</p>
-  
-  <!-- Add more content here to ensure scrolling -->
-  <div style="height: 800px;">
-    <!-- Placeholder space to ensure scrolling is needed -->
-    <p>Additional content can go here...</p>
+    <p>This is your neon-themed page content. The rainbow GIF is centered below the title.</p>
+    
+    <!-- Your actual content goes here -->
   </div>
   
-  <!-- Full-width rainbow GIF at the bottom -->
+  <!-- Full-width rainbow GIF at the very bottom -->
   <img src="https://gifdb.com/images/high/rainbow-color-fiber-spectrum-akrpawy99rt68bn9.gif" alt="Rainbow Fiber Spectrum" class="footer-rainbow">
 </div>
