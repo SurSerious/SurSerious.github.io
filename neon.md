@@ -35,12 +35,35 @@ permalink: /neon/
     width: 175px;
     height: auto;
   }
+  
+  /* Footer rainbow GIF styling */
+  .footer-rainbow {
+    width: 100%;
+    display: block;
+    margin-top: 50px; /* Space above the footer */
+  }
+  
+  /* Add some minimum content height to ensure scrolling */
+  .content-wrapper {
+    min-height: 100vh; /* Makes content at least full viewport height */
+  }
 </style>
 
-<h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
+<div class="content-wrapper">
+  <h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
 
-<div class="rainbow-gif-container">
-  <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
+  <div class="rainbow-gif-container">
+    <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
+  </div>
+
+  <p>This is your neon-themed page content. The rainbow GIF is centered below the title.</p>
+  
+  <!-- Add more content here to ensure scrolling -->
+  <div style="height: 800px;">
+    <!-- Placeholder space to ensure scrolling is needed -->
+    <p>Additional content can go here...</p>
+  </div>
+  
+  <!-- Full-width rainbow GIF at the bottom -->
+  <img src="https://gifdb.com/images/high/rainbow-color-fiber-spectrum-akrpawy99rt68bn9.gif" alt="Rainbow Fiber Spectrum" class="footer-rainbow">
 </div>
-
-This is your neon-themed page content. The rainbow GIF is centered below the title.
