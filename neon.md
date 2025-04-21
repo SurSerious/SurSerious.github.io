@@ -25,22 +25,39 @@ permalink: /neon/
     83.3% { color: #0088ff; text-shadow: 0 0 10px #0088ff, 0 0 20px #0088ff, 0 0 30px #0088ff; }
     100% { color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff; }
   }
-  
-  .rainbow-gif-container {
-    text-align: center;
-    margin: 0 auto 30px auto;
+
+  .rainbow-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px; /* Adjust based on your GIF's height */
+    overflow: hidden;
+    z-index: 100;
   }
-  
-  .rainbow-gif {
-    width: 175px;
-    height: auto;
+
+  .rainbow-footer-gif {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: bottom;
+  }
+
+  /* Make sure content doesn't hide behind the footer */
+  .page-content {
+    margin-bottom: 60px; /* Should be slightly more than the footer height */
   }
 </style>
 
-<h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
+<div class="page-content">
+  <h1 class="rainbow-title">Neon Dreams Only A Moment Away</h1>
 
-<div class="rainbow-gif-container">
-  <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
+  <p>This is your neon-themed page content. The rainbow GIF will now appear at the bottom edge of the page.</p>
 </div>
 
-This is your neon-themed page content. The rainbow GIF is centered below the title.
+<div class="rainbow-footer">
+  <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-footer-gif">
+</div>
