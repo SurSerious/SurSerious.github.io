@@ -72,9 +72,9 @@ permalink: /neon/
       <img src="https://gifdb.com/images/high/rainbow-color-ribbon-swirl-zd68lyivre9e0g2d.gif" alt="Rainbow Swirl" class="rainbow-gif">
     </div>
 
-  <p style="text-align: center; color: #39FF14; font-style: italic; text-shadow: 0 0 10px #39FF14;">  
-Do I Really See Everything For What It Is Or Is It That I Can't See Anything With Such A Bad Case Of Denial  
-</p>  
+ <p style="text-align: center; color: #FF3131; font-style: italic; text-shadow: 0 0 10px #FF3131;">
+Do I Really See Everything For What It Is Or Is It That I Can't See Anything With Such A Bad Case Of Denial
+</p>
     
     <!-- Your actual content goes here -->
   </div>
