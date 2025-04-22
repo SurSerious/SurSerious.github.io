@@ -8,7 +8,39 @@ layout: default
     margin: 0;
     background: url('/assets/images/hikingbackground.jpg') no-repeat center center;
     background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+  }
+  
+  .content-container {
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: white;
+    margin-top: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    color: #a8e063;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    padding-bottom: 10px;
   }
 </style>
 
-{{ content }}
+<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+<div class="content-container">
+  {{ content }}
+</div>
