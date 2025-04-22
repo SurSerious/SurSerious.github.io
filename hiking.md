@@ -24,7 +24,7 @@ permalink: /hiking/
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlNKmDDQXubC5orTy_GSN_DUZDwQN6JyoJPp3BmPtA3wWuaM39gIunwY&s=10" alt="Abel Tasman Coast Track">
   </div>
   <div class="description">
-    <!-- You can add a description for this hike here if you wish -->
+    <p>The <strong>Abel Tasman Coast Track: Anchorage to Bark Bay</strong> is a stunning 11.5 km (7.1 mi) segment of New Zealand's most accessible Great Walk. This coastal paradise features <em>golden-sand beaches, turquoise waters, and lush native bush</em>, with highlights including the iconic <strong>Torrent Bay estuary crossing</strong> and the picturesque <strong>Falls River swing bridge</strong>. Perfect for hiking or kayaking, this section offers breathtaking views of the Tasman Bay's sheltered coves and granite headlands, making it a must-do for nature lovers and adventurers alike.</p>
   </div>
 </div>
 
