@@ -4,41 +4,13 @@ title: "hiking.md"
 permalink: /hiking/
 ---
 
-<br>
 
-<br>
+# Hikes I'd Love To Go On
 
-<br>
+## Number One: Milford Track
 
-<br>
 
-<br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 <br>
 
