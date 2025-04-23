@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Chatbot
+title: chatbot.md
+permalink: /chatbot/
 ---
 
 <div class="chat-container">
