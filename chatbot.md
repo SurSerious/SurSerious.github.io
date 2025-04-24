@@ -1,5 +1,5 @@
 ---
-layout: chatbot
+layout: deafult
 title: chatbot.md
 permalink: /chatbot/
 ---
