@@ -1,12 +1,12 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template, send_from_directory
 import requests
 from dotenv import load_dotenv
 import os
-from flask_cors import CORS  # Important for web requests
+from flask_cors import CORS
 
 # Load environment and setup
 load_dotenv()
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 CORS(app)  # Enable CORS for all routes
 
 # Configuration
@@ -15,6 +15,15 @@ MODEL_API_URL = "https://api-inference.huggingface.co/models/openai-community/gp
 HEADERS = {"Authorization": f"Bearer {HF_API_KEY}"}
 
 @app.route('/')
+def index():
+    """Serve the chatbot interface"""
+    return render_template('index.html')
+
+@app.route('/static/<path:path>')
+def serve_static(path):
+    return send_from_directory('static', path)
+
+@app.route('/health')
 def health_check():
     """Verify the server is running"""
     return jsonify({"status": "active", "model": "gpt2"})
