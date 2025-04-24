@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Chatbot</title>
+  <style>
+    .chat-container {
+      max-width: 600px;
+      margin: 2rem auto;
+      padding: 1rem;
+      border: 1px solid #e1e1e1;
+      border-radius: 8px;
+      font-family: sans-serif;
+    }
+    #chat-output {
+      height: 300px;
+      overflow-y: auto;
+      margin-bottom: 1rem;
+      padding: 0.5rem;
+      border: 1px solid #eee;
+      border-radius: 4px;
+    }
+    #chat-form {
+      display: flex;
+      gap: 0.5rem;
+    }
+    #user-input {
+      flex-grow: 1;
+      padding: 0.5rem;
+    }
+    .user-message {
+      text-align: right;
+      color: #0066cc;
+      margin: 0.5rem 0;
+    }
+    .bot-message {
+      text-align: left;
+      color: #009933;
+      margin: 0.5rem 0;
+    }
+    .error {
+      color: #cc0000;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <h1>Simple Chatbot</h1>
+    <div id="chat-output"></div>
+    <form id="chat-form">
+      <input type="text" id="user-input" placeholder="Type your message...">
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const chatForm = document.getElementById('chat-form');
+      const userInput = document.getElementById('user-input');
+      const chatOutput = document.getElementById('chat-output');
+
+      // Auto-scroll to bottom of chat
+      function scrollToBottom() {
+        chatOutput.scrollTop = chatOutput.scrollHeight;
+      }
+
+      chatForm.addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const message = userInput.value.trim();
+        if (!message) return;
+
+        // Add user message to chat
+        chatOutput.innerHTML += `<div class="user-message">You: ${message}</div>`;
+        userInput.value = '';
+        scrollToBottom();
+
+        try {
+          // Show typing indicator
+          const typingId = Date.now();
+          chatOutput.innerHTML += `<div id="${typingId}" class="bot-message">Bot: Thinking...</div>`;
+          scrollToBottom();
+
+          const response = await fetch('/chat', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: message })
+          });
+
+          const data = await response.json();
+          document.getElementById(typingId).outerHTML = `<div class="bot-message">Bot: ${data.reply}</div>`;
+        } catch (error) {
+          console.error('Error:', error);
+          chatOutput.innerHTML += `<div class="error">Error connecting to chatbot. Please try again later.</div>`;
+        }
+        scrollToBottom();
+      });
+    });
+  </script>
+</body>
+</html>
