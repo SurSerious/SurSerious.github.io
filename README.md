@@ -29,8 +29,6 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Hiking](/hiking/)
 
-[Neon](/neon/)
-
 [Chat Bot](/chatbot/)
 
 ## Quotes of The Week
