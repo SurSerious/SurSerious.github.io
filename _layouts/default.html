@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Favicon (works for all pages using 'default' layout) -->
+  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" type="image/png">
+  
+  <!-- Your other head content (title, meta tags, etc.) -->
+  {% seo %}
+  {% feed_meta %}
+  
+  <!-- Page-specific head content -->
+  {{ page.head }}
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
