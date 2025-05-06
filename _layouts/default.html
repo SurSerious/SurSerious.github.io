@@ -1,17 +1,13 @@
-<!DOCTYPE html>
-<html>
 <head>
-  <!-- Favicon (works for all pages using 'default' layout) -->
-  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" type="image/png">
+  <!-- Basic meta -->
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Favicon (all formats) -->
+  <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
   
-  <!-- Your other head content (title, meta tags, etc.) -->
-  {% seo %}
-  {% feed_meta %}
-  
-  <!-- Page-specific head content -->
-  {{ page.head }}
+  <!-- Your existing theme CSS/JS would go here -->
 </head>
-<body>
-  {{ content }}
-</body>
-</html>
