@@ -101,3 +101,27 @@ permalink: /classical/
   composed sublime sacred works like the <i>Gloria</i>. His gift for memorable melodies—from the 
   exuberant "Spring" to the haunting "Winter" Largo—cements his legacy as <strong>a pioneer of musical imagery</strong>.
 </p>
+
+<h3>Georges Bizet</h3>
+
+<!-- embed start -->
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
+  <wistia-player 
+    media-id="u6plzmfgp7" 
+    aspect="1.0" 
+    style="width: 150px; height: 150px;"
+  ></wistia-player>
+</div>
+
+<script src="https://fast.wistia.com/player.js" async></script>
+<script src="https://fast.wistia.com/embed/u6plzmfgp7.js" async type="module"></script>
+<style>
+  wistia-player[media-id='u6plzmfgp7']:not(:defined) { 
+    background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/u6plzmfgp7/swatch'); 
+    display: block; 
+    filter: blur(5px); 
+  }
+</style>
+
+<!-- embed end -->
