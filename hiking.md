@@ -30,6 +30,10 @@ permalink: /hiking/
 
 ## A picture I took at Godley Head
 
+<div class="wide-image-container">
+  <img class="wide-image" src="/assets/images/godley.jpg" alt="Godley panoramic view">
+</div>
+
 <br>
 
 <br>
