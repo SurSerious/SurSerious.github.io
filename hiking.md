@@ -28,7 +28,7 @@ permalink: /hiking/
   </div>
 </div>
 
-<br>
+## A picture I took at Godley Head
 
 <br>
 
