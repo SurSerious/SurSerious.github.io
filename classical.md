@@ -129,3 +129,29 @@ permalink: /classical/
 <p>  
   This piece, <i>Carmen Suite No. 2: III. Nocturne</i>, took me a long time to find again—a shimmering fragment of Bizet’s genius. Georges Bizet (1838–1875) electrified opera with his fiery realism and melodic brilliance, forging a bridge between Romantic grandeur and modern drama. His masterpiece <i>Carmen</i>—initially scandalous, now immortal—redefined the art form with its searing passions and Spanish-tinged harmonies, while works like <i>The Pearl Fishers</i> gifted the world the iconic duet <i>"Au fond du temple saint"</i>. Bizet’s untimely death at 36 robbed music of a visionary, yet his ability to weave visceral emotion into orchestral color (heard in the haunting <i>Nocturne</i> or the exuberant <i>Farandole</i>) solidified his legacy as <strong>a composer who could break hearts with a single melody, then mend them with a flourish of strings</strong>.  
 </p>  
+
+<h3>Remo Giazotto</h3>
+
+<!-- embed start -->
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
+  <wistia-player 
+    media-id="ia5yil191v" 
+    aspect="1.0" 
+    style="width: 150px; height: 150px;"
+  ></wistia-player>
+</div>
+
+<script src="https://fast.wistia.com/player.js" async></script>
+<script src="https://fast.wistia.com/embed/ia5yil191v.js" async type="module"></script>
+<style>
+  wistia-player[media-id='ia5yil191v']:not(:defined) { 
+    background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/ia5yil191v/swatch'); 
+    display: block; 
+    filter: blur(5px); 
+  }
+</style>
+<!-- embed end -->
+
+<p>  
+  While Remo Giazotto (1910–1998) was not truly a classical composer, he gifted the world <i>Adagio in G Minor</i>—a work of such piercing beauty, it transcends its disputed origins. A musicologist who spent his life resurrecting Baroque masters like Albinoni, Giazotto blurred the lines between scholarship and artistry with this haunting elegy. Though no evidence confirms his claim of an Albinoni fragment, the <i>Adagio</i>'s mournful strings and aching harmonies stand alone as a masterpiece, channeling the grandeur of the 18th century through a mid-20th-century lens. Rarely has a single composition so thoroughly overshadowed its creator—yet in doing so, Giazotto became <strong>a scholar who, willingly or not, redefined Baroque revival for the modern ear</strong>.  
+</p>
