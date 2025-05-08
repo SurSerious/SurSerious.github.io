@@ -4,7 +4,7 @@ title: "Classical"
 permalink: /classical/
 ---
 
-<h1>Classical Essentials</h1>
+<h1>Classical</h1>
 
 <h3>Wolfgang Amadeus Mozart</h3>
 
