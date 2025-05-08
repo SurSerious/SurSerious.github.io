@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "serious.md"
+title: "Act Seriously"
 permalink: /serious/
 ---
 
