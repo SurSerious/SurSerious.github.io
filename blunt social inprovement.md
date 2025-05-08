@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blunt Social Improvement"
-permalink: /bluntsocialinprovement/
+permalink: /bluntsocialimprovement/
 ---
 
 # Social Improvement 101: Blunt Edition.
