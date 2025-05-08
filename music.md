@@ -4,4 +4,4 @@ title: "Music"
 permalink: /music/
 ---
 
-# [Classical](/classical/)
+# [The best classical composers of all time](/classical/)
