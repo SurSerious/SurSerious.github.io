@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Formatting.md"
+title: "Formatting Showcase"
 permalink: /formatting/
 ---
 
