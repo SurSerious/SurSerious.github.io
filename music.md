@@ -1,6 +1,6 @@
 ---
 layout: music
-title: "music.md"
+title: "Music"
 permalink: /music/
 ---
 
