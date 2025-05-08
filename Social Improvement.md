@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Social inprovement.md"
+title: "Social Improvement"
 permalink: /socialinprovement/
 ---
 
