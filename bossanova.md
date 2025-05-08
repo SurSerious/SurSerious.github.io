@@ -40,7 +40,7 @@ permalink: /bossanova/
 
 # ***Wave By Antonio Carlos Jobim***
 
-*Wave* (1967) is a timeless bossa nova masterpiece by Brazilian legend **Antonio Carlos Jobim**. With its soothing melodies, elegant arrangements, and Jobim's signature piano and vocals, the album blends lush orchestration with intimate jazz sensibilities. Iconic tracks like the title song *"Wave"* and *"Lokk To The Sky"* showcase his genius for blending rhythmic sophistication with serene beauty, solidifying *Wave* as a quintessential listen in Jobim's celebrated catalog. Perfect for relaxation and introspection, it remains a defining work of Brazilian jazz.
+*Wave* (1967) is a timeless bossa nova masterpiece by Brazilian legend **Antonio Carlos Jobim**. With its soothing melodies, elegant arrangements, and Jobim's signature piano and vocals, the album blends lush orchestration with intimate jazz sensibilities. Iconic tracks like the title song *"Wave"* and *"Look To The Sky"* showcase his genius for blending rhythmic sophistication with serene beauty, solidifying *Wave* as a quintessential listen in Jobim's celebrated catalog. Perfect for relaxation and introspection, it remains a defining work of Brazilian jazz.
 
 Here are some of my favorite songs from the album
 
