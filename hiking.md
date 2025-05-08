@@ -1,6 +1,6 @@
 ---
 layout: hiking
-title: "hiking.md"
+title: "Hiking"
 permalink: /hiking/
 ---
 
