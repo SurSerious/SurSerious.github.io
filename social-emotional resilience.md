@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "social-emotional resilience.md"
+title: "social-emotional resilience"
 permalink: /social-emotionalresilience/
 ---
 
