@@ -23,7 +23,7 @@ Hello 👋, and welcome to my webpage! I’m SurSerious—a passionate enthusias
 
 [Hacker](/hacker/)
 
-[Classical](/classical/)
+[music](/music)
 
 [Chess](/chess/)
 
