@@ -1,6 +1,6 @@
 ---
 layout: classical
-title: "classical.md"
+title: "Classical"
 permalink: /classical/
 ---
 
