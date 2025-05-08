@@ -4,7 +4,7 @@ title: "classical.md"
 permalink: /classical/
 ---
 
-<h1>The best classical composers of all time</h1>
+<h1>Classical Essentials</h1>
 
 <h3>Wolfgang Amadeus Mozart</h3>
 
