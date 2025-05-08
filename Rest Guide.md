@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rest Guide.md"
+title: "Rest Guide"
 permalink: /rest/
 ---
 
