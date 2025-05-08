@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "hacker.md"
+title: "hacker"
 permalink: /hacker/
 ---
 
