@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "motivation.md"
+title: "motivation"
 permalink: /motivation/
 ---
 
