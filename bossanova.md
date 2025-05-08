@@ -21,7 +21,7 @@ Here are some of my favorite songs from the album
 
 "**Wave**” by Antônio Carlos Jobim is a smooth, flowing bossa nova classic, marked by warm harmonies and a relaxed, romantic feel. It carries the easy rhythm of the ocean it’s named after.
 
-# The Red Blouse
+## The Red Blouse
 
 <script src="https://fast.wistia.com/player.js" async></script><script src="https://fast.wistia.com/embed/dvq6g50cp6.js" async type="module"></script><style>wistia-player[media-id='dvq6g50cp6']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/dvq6g50cp6/swatch'); display: block; filter: blur(5px); }</style> <wistia-player media-id="dvq6g50cp6" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
 
