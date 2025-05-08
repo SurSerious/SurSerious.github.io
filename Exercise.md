@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Exercise.md"
+title: "Exercise"
 permalink: /dietandexercise/
 ---
 
