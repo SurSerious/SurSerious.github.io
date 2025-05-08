@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "focus.md"
+title: "Focus"
 permalink: /focus/
 ---
 
