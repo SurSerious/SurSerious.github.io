@@ -1,6 +1,6 @@
 ---
 layout: default
-title: chatbot.md
+title: Chatbot
 permalink: /chatbot/
 ---
 
