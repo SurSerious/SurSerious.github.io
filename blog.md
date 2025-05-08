@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "blog.md"
+title: "Blog"
 permalink: /blog/
 ---
 
