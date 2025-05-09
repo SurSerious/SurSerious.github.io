@@ -13,6 +13,8 @@ permalink: /chess/
 
 <iframe id="13132920" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=13132920"></iframe><script nonce="chesscom-diagram">window.addEventListener("message",e=>{e['data']&&"13132920"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+37}px`)});</script>
 
-<iframe width="100%" height="100%"
-src="https://www.youtube.com/embed/XzlObDyzcyU">
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/TFhBA0gRhh4">
+  </iframe>
+</div>
