@@ -38,7 +38,7 @@ permalink: /classical/
   }
 </style>
 
-<h1><em>Classical Music</em></h1>
+<h1><i><b>Classical Music</b></i></h1>
 
 <h3>Wolfgang Amadeus Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante</h3>
 
