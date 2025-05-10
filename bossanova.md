@@ -86,4 +86,8 @@ Here are some of my favorite songs from the album
   </div>
 </div>
 
+## Bonus track: Beach Samba By Walter Wanderley
+
+here's another one of my favourite Bossa Nova songs from the artist *Walter Wanderley*
+
 Back to [Music](/music/)
