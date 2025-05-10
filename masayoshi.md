@@ -57,3 +57,17 @@ Here’s one of my favorite tracks by him:
     <p>"<strong>トーキョーレギー (Tokyo Reggay)</strong>" by Masayoshi Takanaka is a vibrant fusion of reggae rhythms and Japanese city-pop flair. With its playful guitar work and laid-back groove, it delivers a tropical twist on Tokyo cool.</p>
   </div>
 </div>
+
+## I REMEMBER YOU
+
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/ih0s4i03p8.js" async type="module"></script>
+    <style>wistia-player[media-id='ih0s4i03p8']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/ih0s4i03p8/swatch'); display: block; filter: blur(5px); }</style>
+    <wistia-player media-id="ih0s4i03p8" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p>"<strong>I REMEMBER YOU</strong>" by Masayoshi Takanaka is a smooth, nostalgic groove blending soft rock and city pop. With dreamy guitar lines and laid-back rhythm, it captures a warm, reflective mood that lingers like a sunset memory.</p>
+  </div>
+</div>
