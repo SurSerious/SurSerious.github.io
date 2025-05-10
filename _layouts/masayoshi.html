@@ -3,17 +3,15 @@ layout: default
 ---
 
 <style>
-  /* Full stretch background styling */
+  /* Background styling */
   body {
     background-image: url('/assets/images/masayoshi.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover; /* This stretches the image edge to edge */
-    background-color: #000000; /* Fallback color */
-    margin: 0;
-    padding: 0;
-    min-height: 100vh; /* Ensure full viewport height */
+    background-size: cover;
+    background-color: #000000;
+    padding: 20px 0;
   }
 
   /* Content box styling */
@@ -53,45 +51,15 @@ layout: default
     padding: 0 10px;
   }
 
-  /* Song section styling for responsive layout */
-  .song-section {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 40px;
-    gap: 20px;
-  }
-  
-  .media-container {
-    flex-shrink: 0;
-  }
-  
-  .text-container {
-    flex-grow: 1;
-  }
-
   /* Responsive adjustments */
   @media screen and (max-width: 900px) {
     .masayoshi-container {
       width: 90%;
       padding: 30px 5%;
     }
-    
+
     .masayoshi-container h1 {
       font-size: 1.8em;
-    }
-    
-    /* Stack vertically on mobile */
-    .song-section {
-      flex-direction: column;
-      align-items: center;
-    }
-    
-    .media-container {
-      margin-bottom: 15px;
-    }
-    
-    .text-container p {
-      text-align: center;
     }
   }
 </style>
