@@ -4,7 +4,11 @@ title: "Masayoshi Takanaka"
 permalink: /masayoshi/
 ---
 
-# トーキョーレギー
+# Masayoshi Takanaka
+
+**Masayoshi Takanaka** (born 1953) is Japan's most flamboyant guitar virtuoso, a rainbow-clad maestro who fused tropical funk, jazz fusion, and city-pop into a singular sound that defined an era. Bursting onto the scene in the 1970s with his band Sadistic Mika Band before launching a solo career, Takanaka became legendary for his technical wizardry wrapped in pure joy—whether playing steel drums in a sequined jumpsuit or shredding on a neon-green guitar at the foot of Mount Fuji. Albums like *An Insatiable High* (1977) and *Rainbow Goblins* (1981) showcase his genius for blending Brazilian rhythms, rock energy, and pop sweetness into what he called "Takanaka Magic." More than just a guitarist, he's a one-man carnival whose music—from the reggae-infused *"Tokyo Reggae"* to the surf-rock spectacle *"Brasilian Skies"*—embodies Japan's bubble-era optimism, **where technical mastery becomes invisible beneath the sheer joy of performance**.
+
+## トーキョーレギー
 
 <script src="https://fast.wistia.com/player.js" async></script><script src="https://fast.wistia.com/embed/f0vlj55jyc.js" async type="module"></script><style>wistia-player[media-id='f0vlj55jyc']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/f0vlj55jyc/swatch'); display: block; filter: blur(5px); }</style> <wistia-player media-id="f0vlj55jyc" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
 
