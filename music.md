@@ -9,3 +9,5 @@ Welcome to my page about music! I have listened to an extensive range of music g
 # [Classical](/classical/)
 
 # [Bossa Nova](/bossanova/)
+
+# [Masayoshi Takanaka](1/masayoshi/)
