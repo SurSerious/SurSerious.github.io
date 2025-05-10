@@ -88,6 +88,8 @@ Here are some of my favorite songs from the album
 
 ## Bonus track: Beach Samba By Walter Wanderley
 
-here's another one of my favourite Bossa Nova songs from the artist *Walter Wanderley*
+
+
+here's another one of my favourite Bossa Nova songs from the artist *Walter Wanderley*. “**Beach Samba**” by Walter Wanderley is one of his most popular tracks, blending breezy organ melodies with a light, upbeat bossa nova groove. It captures the carefree spirit of a sun-soaked shoreline.
 
 Back to [Music](/music/)
