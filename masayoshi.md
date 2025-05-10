@@ -71,3 +71,9 @@ Here’s one of my favorite tracks by him:
     <p>"<strong>I REMEMBER YOU</strong>" by Masayoshi Takanaka is a smooth, nostalgic groove blending soft rock and city pop. With dreamy guitar lines and laid-back rhythm, it captures a warm, reflective mood that lingers like a sunset memory.</p>
   </div>
 </div>
+
+## 伊豆甘夏納豆売り
+
+
+
+“伊豆甘夏納豆売り” is a mellow, understated gem in Masayoshi Takanaka’s catalog, trading his signature high-energy flair for a more reflective, serene groove. With gentle melodies and a breezy tempo, the track feels like a quiet stroll through a coastal town—subtle, soothing, and rich with atmosphere.
