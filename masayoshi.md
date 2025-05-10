@@ -44,7 +44,7 @@ permalink: /masayoshi/
 
 Here are some of my favorite tracks by him:
 
-## トーキョーレギー (Tokyo Reggay)
+## トーキョーレギー (Tokyo Reggae)
 
 <div class="song-section">
   <div class="media-container">
@@ -54,7 +54,7 @@ Here are some of my favorite tracks by him:
     <wistia-player media-id="f0vlj55jyc" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
   </div>
   <div class="text-container">
-    <p>"<strong>トーキョーレギー (Tokyo Reggay)</strong>" by Masayoshi Takanaka is a vibrant fusion of reggae rhythms and Japanese city-pop flair. With its playful guitar work and laid-back groove, it delivers a tropical twist on Tokyo cool.</p>
+    <p>"<strong>トーキョーレギー (Tokyo Reggae)</strong>" by Masayoshi Takanaka is a vibrant fusion of reggae rhythms and Japanese city-pop flair. With its playful guitar work and laid-back groove, it delivers a tropical twist on Tokyo cool.</p>
   </div>
 </div>
 
