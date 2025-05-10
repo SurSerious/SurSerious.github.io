@@ -140,7 +140,7 @@ permalink: /classical/
   </div>
 </div>
 
-<h3>Remo Giazotto</h3>
+<h3>Remo Giazotto: Adagio in G Minor</h3>
 
 <div class="song-section">
   <div class="media-container">
