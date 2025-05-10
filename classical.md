@@ -40,7 +40,7 @@ permalink: /classical/
 
 <h1>Classical</h1>
 
-<h3>Wolfgang Amadeus Mozart</h3>
+<h3>Wolfgang Amadeus Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante</h3>
 
 <div class="song-section">
   <div class="media-container">
@@ -62,7 +62,7 @@ permalink: /classical/
   </div>
 </div>
 
-<h3>Erik Satie</h3>
+<h3>Erik Satie: Première Gymnopédie</h3>
 
 <div class="song-section">
   <div class="media-container">
@@ -90,7 +90,7 @@ permalink: /classical/
   </div>
 </div>
 
-<h3>Antonio Vivaldi</h3>
+<h3>Antonio Vivaldi: Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "L'inverno" (Winter): I. Allegro Non Molto</h3>
 
 <div class="song-section">
   <div class="media-container">
@@ -118,7 +118,7 @@ permalink: /classical/
   </div>
 </div>
 
-<h3>Georges Bizet</h3>
+<h3>Georges Bizet: Carmen Suite No. 2: III. Nocturne</h3>
 
 <div class="song-section">
   <div class="media-container">
