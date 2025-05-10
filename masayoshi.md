@@ -74,6 +74,14 @@ Here’s one of my favorite tracks by him:
 
 ## 伊豆甘夏納豆売り
 
-
-
-“伊豆甘夏納豆売り” is a mellow, understated gem in Masayoshi Takanaka’s catalog, trading his signature high-energy flair for a more reflective, serene groove. With gentle melodies and a breezy tempo, the track feels like a quiet stroll through a coastal town—subtle, soothing, and rich with atmosphere.
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/857kzsgtun.js" async type="module"></script>
+    <style>wistia-player[media-id='857kzsgtun']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/857kzsgtun/swatch'); display: block; filter: blur(5px); }</style>
+    <wistia-player media-id="857kzsgtun" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p>"<strong>伊豆甘夏納豆売り</strong>" is a mellow, understated gem in Masayoshi Takanaka’s catalog, trading his signature high-energy flair for a more reflective, serene groove. With gentle melodies and a breezy tempo, the track feels like a quiet stroll through a coastal town—subtle, soothing, and rich with atmosphere.</p>
+  </div>
+</div>
