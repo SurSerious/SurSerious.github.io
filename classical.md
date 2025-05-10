@@ -4,35 +4,64 @@ title: "Classical"
 permalink: /classical/
 ---
 
+<style>
+  /* Song section styling for responsive layout */
+  .song-section {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    gap: 20px;
+    flex-direction: row-reverse; /* This puts media on the right */
+  }
+
+  .media-container {
+    flex-shrink: 0;
+  }
+
+  .text-container {
+    flex-grow: 1;
+  }
+
+  /* Responsive layout - stack on mobile */
+  @media screen and (max-width: 768px) {
+    .song-section {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .media-container {
+      margin-bottom: 15px;
+    }
+
+    .text-container p {
+      text-align: center;
+    }
+  }
+</style>
+
 <h1>Classical</h1>
 
 <h3>Wolfgang Amadeus Mozart</h3>
 
-<!-- embedd start -->
-
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px 0;">
-  <wistia-player 
-    media-id="kj3p97uwee" 
-    aspect="1.0" 
-    style="width: 150px; height: 150px;"
-  ></wistia-player>
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/kj3p97uwee.js" async type="module"></script>
+    <style>
+      wistia-player[media-id='kj3p97uwee']:not(:defined) { 
+        background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/kj3p97uwee/swatch'); 
+        display: block; 
+        filter: blur(5px); 
+      }
+    </style>
+    <wistia-player media-id="kj3p97uwee" aspect="1.0" style="width: 150px; height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p>
+      Wolfgang Amadeus Mozart (1756–1791) stands among the greatest composers in history due to his unparalleled melodic genius, mastery of form, and prolific output. A child prodigy who wrote his first symphony at age 8, Mozart perfected the Classical style with works like <em>The Marriage of Figaro</em> and <em>Symphony No. 40</em>, blending structural clarity with emotional depth. His operas revolutionized the art form, while his piano concertos and chamber music set enduring standards. Though he died tragically young at 35, his 600+ compositions—ranging from playful to profound—capture the essence of human expression, earning him a legacy as "music itself" (Rubinstein). Mozart's ability to make complexity sound effortless solidifies his immortality.
+    </p>
+  </div>
 </div>
-
-<script src="https://fast.wistia.com/player.js" async></script>
-<script src="https://fast.wistia.com/embed/kj3p97uwee.js" async type="module"></script>
-<style>
-  wistia-player[media-id='kj3p97uwee']:not(:defined) { 
-    background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/kj3p97uwee/swatch'); 
-    display: block; 
-    filter: blur(5px); 
-  }
-</style>
-
-<!-- embed end -->
-
-<p>
-  Wolfgang Amadeus Mozart (1756–1791) stands among the greatest composers in history due to his unparalleled melodic genius, mastery of form, and prolific output. A child prodigy who wrote his first symphony at age 8, Mozart perfected the Classical style with works like *The Marriage of Figaro* and *Symphony No. 40*, blending structural clarity with emotional depth. His operas revolutionized the art form, while his piano concertos and chamber music set enduring standards. Though he died tragically young at 35, his 600+ compositions—ranging from playful to profound—capture the essence of human expression, earning him a legacy as "music itself" (Rubinstein). Mozart’s ability to make complexity sound effortless solidifies his immortality.
-</p>
 
 <h3>Erik Satie</h3>
 
