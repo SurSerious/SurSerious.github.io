@@ -44,6 +44,7 @@ permalink: /classical/
   <strong>Classical—often known as the intellectual’s music—</strong> stands as the foundation of Western musical tradition, where structure meets soul, and genius takes shape in notes and nuance. From the crystalline symmetry of <strong>Mozart</strong>, to the radical minimalism of <strong>Satie</strong>, the fiery storytelling of <strong>Vivaldi</strong>, the operatic emotion of <strong>Bizet</strong>, and the mysterious beauty of <strong>Giazotto</strong>’s <em>Adagio</em>, this genre transcends time. These composers didn’t just write music—they reshaped human expression, creating works that range from sacred to sublime, playful to profound. Whether performed in grand halls or whispered through headphones, classical music continues to stir minds and move hearts with a brilliance that never fades.
 </p>
 
+<p>Here are some of my favourite compositions</p>
 
 <h2>Wolfgang Amadeus Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante</h2>
 
