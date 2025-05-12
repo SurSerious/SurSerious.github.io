@@ -86,4 +86,6 @@ Here are some of my favorite tracks by him:
   </div>
 </div>
 
+## Bonus track: パッション・フラワー by Shigeru Suzuki
+
 Back to [Music](/music/)
