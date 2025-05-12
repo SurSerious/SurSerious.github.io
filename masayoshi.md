@@ -88,4 +88,6 @@ Here are some of my favorite tracks by him:
 
 ## Bonus track: パッション・フラワー by Shigeru Suzuki
 
+***パッション・フラワー by Shigeru Suzuki*** is a upbeat song similar to Masayoshi Takanaka’s style. This song was one of the few that was good enough to go in my Masayoshi Takanaka playlist on Spotify. By listening to the song, it's clear why that is.
+
 Back to [Music](/music/)
