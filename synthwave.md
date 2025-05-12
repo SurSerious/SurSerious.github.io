@@ -39,3 +39,6 @@ permalink: /synthwave/
 </style>
 
 # Beyond - Voyage
+
+<script src="https://fast.wistia.com/player.js" async></script><script src="https://fast.wistia.com/embed/cqsdwjf5u2.js" async type="module"></script><style>wistia-player[media-id='cqsdwjf5u2']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/cqsdwjf5u2/swatch'); display: block; filter: blur(5px); }</style> <wistia-player media-id="cqsdwjf5u2" aspect="1.0092592592592593" style="width: 150px;height: 150px;"></wistia-player>
+
