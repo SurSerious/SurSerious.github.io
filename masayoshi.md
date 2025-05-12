@@ -88,6 +88,16 @@ Here are some of my favorite tracks by him:
 
 ## Bonus track: パッション・フラワー by Shigeru Suzuki
 
-***パッション・フラワー by Shigeru Suzuki*** is a upbeat song similar to Masayoshi Takanaka’s style. This song was one of the few that was good enough to go in my Masayoshi Takanaka playlist on Spotify. By listening to the song, it's clear why that is.
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/erlpzpuue9.js" async type="module"></script>
+    <style>wistia-player[media-id='erlpzpuue9']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/erlpzpuue9/swatch'); display: block; filter: blur(5px); }</style>
+    <wistia-player media-id="erlpzpuue9" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p>"<strong>パッション・フラワー</strong>" by Shigeru Suzuki is a bright, city pop-infused groove that echoes the tropical flair of Masayoshi Takanaka. It was one of the few songs good enough to make it into my Takanaka playlist—and listening to it, it’s easy to hear why.</p>
+  </div>
+</div>
 
 Back to [Music](/music/)
