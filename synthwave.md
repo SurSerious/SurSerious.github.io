@@ -54,8 +54,17 @@ permalink: /synthwave/
 
 # Sun - 憂鬱
 
-
-
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/t7t16h6k13.js" async type="module"></script>
+    <style>wistia-player[media-id='t7t16h6k13']:not(:defined) { background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/t7t16h6k13/swatch'); display: block; filter: blur(5px); }</style>
+    <wistia-player media-id="t7t16h6k13" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p><strong>Sun - 憂鬱 (Yūutsu / Melancholy)</strong> is a dreamy, introspective track that blends soft melodies and atmospheric electronics, evoking a quiet sense of solitude and wistful reflection. Its delicate, melancholic tone feels like a fading sunset—serene yet sorrowful—perfect for moments of deep contemplation.</p>
+  </div>
+</div>
 
 
 # Parallel - Hotel Pools, oDDling
