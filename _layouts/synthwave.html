@@ -1,1 +1,69 @@
+---
+layout: default
+---
 
+<style>
+  /* Background styling */
+  body {
+    background-image: url('/assets/images/synthwave.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    padding: 20px 0;
+  }
+
+  /* Content box styling */
+  .antonio-container {
+    width: 780px;
+    margin: 0 auto;
+    padding: 40px 60px;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    color: #ffffff !important;
+    border-radius: 8px;
+  }
+
+  /* Text styling - all headings centered */
+  .antonio-container h1,
+  .antonio-container h2,
+  .antonio-container h3,
+  .antonio-container h4,
+  .antonio-container h5,
+  .antonio-container h6 {
+    text-align: center;
+    margin: 0 0 20px 0;
+  }
+
+  /* Specific h1 styling */
+  .antonio-container h1 {
+    margin-bottom: 30px;
+    font-size: 2.2em;
+  }
+
+  /* Paragraph styling */
+  .antonio-container p {
+    text-align: justify;
+    text-align-last: center;
+    line-height: 1.6;
+    margin: 0 0 20px 0;
+    padding: 0 10px;
+  }
+
+  /* Responsive adjustments */
+  @media screen and (max-width: 900px) {
+    .antonio-container {
+      width: 90%;
+      padding: 30px 5%;
+    }
+    
+    .antonio-container h1 {
+      font-size: 1.8em;
+    }
+  }
+</style>
+
+<div class="antonio-container">
+  {{ content }}
+</div>
