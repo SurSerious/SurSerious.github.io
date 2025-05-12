@@ -11,3 +11,5 @@ Welcome to my page about music! I have listened to an extensive range of music g
 # [Bossa Nova](/bossanova/)
 
 # [Masayoshi Takanaka](/masayoshi/)
+
+# [Synthwave](/synthwave/)
