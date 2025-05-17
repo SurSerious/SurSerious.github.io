@@ -69,4 +69,22 @@ permalink: /synthwave/
 
 # Parallel - Hotel Pools, oDDling
 
+<div class="song-section">
+  <div class="media-container">
+    <script src="https://fast.wistia.com/player.js" async></script>
+    <script src="https://fast.wistia.com/embed/sor5dzc8cg.js" async type="module"></script>
+    <style>
+      wistia-player[media-id='sor5dzc8cg']:not(:defined) {
+        background: center / contain no-repeat url('https://fast.wistia.com/embed/medias/sor5dzc8cg/swatch');
+        display: block;
+        filter: blur(5px);
+      }
+    </style>
+    <wistia-player media-id="sor5dzc8cg" aspect="1.0" style="width: 150px;height: 150px;"></wistia-player>
+  </div>
+  <div class="text-container">
+    <p><strong>"Parallel" by Hotel Pools and oDDling</strong> is a dreamy synthwave track that blends retro-inspired electronic textures with a chill, atmospheric vibe. Characterized by lush synths, laid-back beats, and a nostalgic ambiance, the song evokes a sense of drifting through neon-lit nights or distant memories. It’s perfect for fans of lo-fi, chillwave, and vaporwave aesthetics.</p>
+  </div>
+</div>
+
 Back to [Music](/music/)
