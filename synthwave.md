@@ -68,3 +68,5 @@ permalink: /synthwave/
 
 
 # Parallel - Hotel Pools, oDDling
+
+Back to [Music](/music/)
