@@ -8,7 +8,7 @@ Welcome to my page about music! I have listened to an extensive range of music g
 
 # [Classical](/classical/)
 
-# [Bossa Nova](/bossanova/)
+# [Antonio Carlos Jobim](/bossanova/)
 
 # [Masayoshi Takanaka](/masayoshi/)
 
